@@ -8,6 +8,9 @@
   │   ├──cnn_for_train.py                    // CNN train model architecture.
   │   ├──cnn.py                              // CNN architecture.
   |   ├──config.py                           // Parser arguments
+  ├── utils
+  │   ├──log.py                              // log for all the lines in terminal.
+  │   ├──plot.py                              // plot loss and accuracy graph.
   ├── scripts
   │   ├──exe.sh                              // shell script for training.
   ├── train.py                               // Train API entry.
@@ -41,14 +44,5 @@ cd [Your Path]/cnn
 python train.py
 ```
 
-The Model will be stored in the checkpoint folder
+The Model will be stored in the checkpoint folder if the testing accuracy is bigger than the threshold accuracy(default: 80) which you can define in the config.py.
 
-
-
-
-
-需要加：
-
-曲线图
-
-每个类别的准确度
