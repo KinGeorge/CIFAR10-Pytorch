@@ -1,2 +1,3 @@
 echo "==========CIFAR10 With CNN=========="
-python train.py
+python main.py
+echo "==========Training Complete=========="

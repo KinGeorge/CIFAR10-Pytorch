@@ -18,7 +18,7 @@ def make_print_to_file(path='./'):
         def flush(self):
             pass
  
-    fileName = datetime.datetime.now().strftime('day' + '%Y_%m_%d')
+    fileName = datetime.datetime.now().strftime('day' + '%Y_%m_%d_%H_%M_%S')
     sys.stdout = Logger(fileName + '.log', path=path)
     # 这里输出之后的所有的输出的print 内容即将写入日志
     print("*************************************Current time is:",datetime.datetime.now().strftime('%Y-%m-%d-%H:%M'),"**************************************")

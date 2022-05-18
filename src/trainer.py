@@ -1,10 +1,8 @@
 import torch
 from .config import *
 
-batch_size = 256
 
-
-def train(net, trainloader, epoch, Loss, optim, device):
+def train(net, trainloader, epoch, Loss, optim, device,classes):
     print('\n======Training in Epoch: %d======' % epoch)
     net.train()
 
@@ -14,8 +12,6 @@ def train(net, trainloader, epoch, Loss, optim, device):
 
     # 输出各分类准确率
     # 创建各个分类准确率的字典
-    classes = ('plane', 'car', 'bird', 'cat', 'deer',
-               'dog', 'frog', 'horse', 'ship', 'truck')
     class_correct = {classname: 0 for classname in classes}
     class_total = {classname: 0 for classname in classes}
 
@@ -40,31 +36,35 @@ def train(net, trainloader, epoch, Loss, optim, device):
 
         total += targets.size(0)
         correct += predictions.eq(targets).sum().item()
-        if batch_idx % 20 == 0:
+        if batch_idx % 50 == 0:
             print("======Batch %d======" % batch_idx)
             print('Loss: %.3f | Acc: %.3f%% (%d/%d)' % (
                 train_loss / (batch_idx + 1), 100. * correct / total, correct, total))
+        total_batch = batch_idx + 1
 
-            # 将损失和准确率记录到对应的txt文件中
-            with open('loss_records.txt', 'a+') as f:
-                f.write('%d %.3f\n' % (epoch * 9 + batch_idx / 20, train_loss / (batch_idx + 1)))
 
-            with open('accurate_records.txt', 'a+') as f:
-                f.write('%d %.3f\n' % (epoch * 9 + batch_idx / 20, 100. * correct / total))
+    loss_total = train_loss / total_batch
+    acc_total = correct / total
 
+    print('EPOCH %d TOTAL: Loss: %.3f | Acc: %.3f%% (%d/%d)' % (epoch, loss_total, 100. * acc_total, correct, total))
     # 打印各分类准确率
     for classname, correct_n in class_correct.items():
         accuracy = 100 * float(correct_n) / class_total[classname]
         print("Accuracy of class {:5s} is {:.1f} %".format(classname, accuracy))
 
+    return loss_total, acc_total
 
-def test(net, testloader, epoch, Loss, device):
+
+def test(net, testloader, epoch, Loss, device, classes):
     args = get_args()
     net.eval()
     print('\n======Testing in Epoch: %d======' % epoch)
     test_loss = 0
     correct = 0
     total = 0
+
+    class_correct = {classname: 0 for classname in classes}
+    class_total = {classname: 0 for classname in classes}
 
     for batch_idx, (inputs, targets) in enumerate(testloader):
         inputs, targets = inputs.to(device), targets.to(device)
@@ -76,7 +76,16 @@ def test(net, testloader, epoch, Loss, device):
         total += targets.size(0)
         correct += predictions.eq(targets).sum().item()
 
+        for target, prediction in zip(targets, predictions):
+            if target == prediction:
+                class_correct[classes[target]] += 1
+            class_total[classes[target]] += 1
+
     print('Loss: %.3f | Acc: %.3f%% (%d/%d)' % (test_loss / (batch_idx + 1), 100. * correct / total, correct, total))
+    # 打印各分类准确率
+    for classname, correct_n in class_correct.items():
+        accuracy = 100 * float(correct_n) / class_total[classname]
+        print("Accuracy of class {:5s} is {:.1f} %".format(classname, accuracy))
 
     # Save checkpoint.
     acc = 100. * correct / total
@@ -89,5 +98,7 @@ def test(net, testloader, epoch, Loss, device):
         }
         if not os.path.isdir('checkpoint'):
             os.mkdir('checkpoint')
-        torch.save(state, './checkpoint/ckpt.pth')
+        torch.save(state, './checkpoint/ckpt_'+str(int(acc)),'.pth')
         args.best_acc = acc
+
+    return test_loss / (batch_idx + 1), correct / total

@@ -4,6 +4,8 @@ from .config import *
 
 import torchvision.transforms as transforms
 
+torch.manual_seed(0)
+
 args = get_args()
 
 transform_train = transforms.Compose([
@@ -28,6 +30,6 @@ def create_dataset():
     testset = torchvision.datasets.CIFAR10(
         root='./data', train=False, download=False, transform=transform_test)
     testloader = torch.utils.data.DataLoader(
-        testset, batch_size=1, shuffle=False, num_workers=2)
+        testset, batch_size=1, shuffle=True, num_workers=2)
 
     return trainloader, testloader
