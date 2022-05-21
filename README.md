@@ -70,7 +70,7 @@ We compare the
 | [AlexNet](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)(2) |          |
 |        [VGG](https://arxiv.org/pdf/1409.1556.pdf)(3)         |          |
 | [GoogleNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)(4) |          |
-| [Resnet18](https://arxiv.org/pdf/1512.03385v1.pdf)(wo pretrain)(5) |          |
+| [Resnet18](https://arxiv.org/pdf/1512.03385v1.pdf)(5) |          |
 | [Resent34](https://arxiv.org/pdf/1512.03385v1.pdf)(w pretrian)(6) |          |
-|     [DenseNet](https://arxiv.org/pdf/1608.06993.pdf)(7)      |          |
+|     [DenseNet](https://arxiv.org/pdf/1608.06993.pdf)(w pretrian)(7)      |          |
 
