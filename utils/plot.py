@@ -27,4 +27,4 @@ def plot(train_loss_total, train_acc_total, test_loss_total, test_acc_total):
     axes[1].set(title='accuracy in training',
                 ylabel='accurate', xlabel='epoch')
     axes[1].legend(loc='upper left')
-    plt.show()
+    plt.savefig('./fig/result.png')

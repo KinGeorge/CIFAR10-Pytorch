@@ -98,7 +98,7 @@ def test(net, testloader, epoch, Loss, device, classes):
         }
         if not os.path.isdir('checkpoint'):
             os.mkdir('checkpoint')
-        torch.save(state, './checkpoint/ckpt_'+str(int(acc)),'.pth')
+        torch.save(state, './checkpoint/ckpt_'+str(int(acc))+'.pth')
         args.best_acc = acc
 
     return test_loss / (batch_idx + 1), correct / total
