@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-![](https://img.shields.io/badge/-v3.7.3-1E90FF.svg)
-=======
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![](https://img.shields.io/badge/building-pass-green.svg)
 [![LICENSE](https://img.shields.io/github/license/JoeyBling/hexo-theme-yilia-plus "LICENSE")](./LICENSE "LICENSE")
->>>>>>> d53cee34c0cbd9ed468244dafbf910ded7a354a0
 # Architecture
 
 ```
