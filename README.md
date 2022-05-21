@@ -16,8 +16,8 @@
   │   ├──plot.py                             // plot loss and accuracy graph.
   ├── scripts
   │   ├──exe.sh                              // shell script for training with our model.
-  │   ├──exe_alex.sh                         // shell script for training with Alexnet.
-  │   ├──exe.sh                              // shell script for training with our model.
+  │   ├──exe_alex.sh                         // shell script for training with Alexnet(Baseline).
+  │   ├──exe_dense.sh                        // shell script for training with DenseNet161(Best Result).
   ├── train.py                               // Train API entry.
 ```
 
@@ -61,8 +61,6 @@ We offer 3 types of bash scripts for you to try, which the hyper-parameters are 
 
 # Benchmark
 
-We compare the 
-
 |                         Model(mode)                          | Test Acc |
 | :----------------------------------------------------------: | :------: |
 |                           Ours(0)                            |          |
@@ -74,3 +72,8 @@ We compare the
 | [Resent34](https://arxiv.org/pdf/1512.03385v1.pdf)(w pretrian)(6) |          |
 |     [DenseNet](https://arxiv.org/pdf/1608.06993.pdf)(w pretrian)(7)      |          |
 
+Configuration of our simple CNN model:
+
+
+
+Other models are running under default setting in congfig.py.
