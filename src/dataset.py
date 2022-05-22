@@ -13,7 +13,7 @@ args = get_args()
 def create_dataset():
     
     # Data Augmentation
-    if args.mode == 1: # For AlexNet to work, Need to Reshape to (227,227)
+    if args.mode == 2 or args.mode == 3: # For AlexNet to work, Need to Reshape to (227,227)
         transform_train = transforms.Compose([
             transforms.Resize((227,227)), 
             transforms.RandomHorizontalFlip(p=0.7), 

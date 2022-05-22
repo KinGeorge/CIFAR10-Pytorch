@@ -3,6 +3,7 @@ from .config import *
 
 
 def train(net, trainloader, epoch, Loss, optim, device,classes):
+    args = get_args()
     print('\n======Training in Epoch: %d======' % epoch)
     net.train()
 
@@ -20,6 +21,9 @@ def train(net, trainloader, epoch, Loss, optim, device,classes):
         inputs, targets = inputs.to(device), targets.to(device)
         optim.zero_grad()
         outputs = net(inputs)
+        
+        if args.mode == 4: # GoogleNet需要将输出转换为tensor
+            outputs = outputs.logits
 
         loss = Loss(outputs, targets)
         loss.backward()

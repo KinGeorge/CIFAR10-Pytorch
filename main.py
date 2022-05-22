@@ -1,7 +1,7 @@
 import torch
 from torch import optim
 import time
-
+import torchvision.models as models
 
 from src.dataset import create_dataset
 from src.config import get_args
@@ -31,8 +31,27 @@ def run():
     test_acc_total = []
 
     print('======defining model======')
-    if args.mode == 0 :
+    if args.mode == 1 :
+        print('======LeNet======')
         net = LeNet()
+    elif args.mode == 2:
+        print('======AlexNet======')
+        net = AlexNet()
+    elif args.mode == 3:
+        print('======VGG======')
+        net = models.vgg16(pretrained=False)
+    elif args.mode == 4:
+        print('======GoogleNet======')
+        net = models.googlenet(pretrained=False)
+    elif args.mode == 5:
+        print('======Resnet18======')
+        net = models.resnet18(pretrained=False)
+    elif args.mode == 6:
+        print('======Resnet34(Pretrained)======')
+        net = models.resnet34(pretrained=True)
+    elif args.mode == 7:
+        print('======DenseNet161(Pretrained)======')
+        net = models.densenet161(pretrained=True)
     else:
         raise Exception("No such mode")
     
@@ -66,7 +85,7 @@ def run():
         toe = time.time()
         print('Test Time Spent:', toe-toc)
 
-    plot(train_loss_total, train_acc_total, test_loss_total, test_acc_total)
+    plot(train_loss_total, train_acc_total, test_loss_total, test_acc_total, args.mode)
 
 
 if __name__ == '__main__':
