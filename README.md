@@ -75,6 +75,6 @@ Configuration of our simple CNN model:
 
 
 
-Other models are running under default setting in congfig.py.
+Other models are running under default setting in config.py.
 
 All the result is in folder **appendix** to see our full result.
