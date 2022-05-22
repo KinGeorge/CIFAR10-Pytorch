@@ -75,6 +75,8 @@ Configuration of our simple CNN model:
 
 
 
+**Resnet34** are finetuned with 35 epochs with learning rate 1e-5.
+
 Other models are running under default setting in config.py.
 
 All the result is in folder **appendix** to see our full result.
