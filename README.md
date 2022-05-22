@@ -68,7 +68,7 @@ We offer 3 types of bash scripts for you to try, which the hyper-parameters are 
 | [AlexNet](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)(2) |  78.090  |
 | [GoogleNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)(3) |  84.120  |
 |    [Resnet18](https://arxiv.org/pdf/1512.03385v1.pdf)(4)     |  83.810  |
-| [Resent34](https://arxiv.org/pdf/1512.03385v1.pdf)(w pretrian)(5) |  97.000  |
+| [Resent34](https://arxiv.org/pdf/1512.03385v1.pdf)(w pretrian)(5) |  96.620  |
 | [DenseNet](https://arxiv.org/pdf/1608.06993.pdf)(w pretrian)(6) |  86.810  |
 
 Configuration of our simple CNN model:
