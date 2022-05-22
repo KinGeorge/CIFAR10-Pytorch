@@ -38,18 +38,15 @@ def run():
         print('======AlexNet======')
         net = AlexNet()
     elif args.mode == 3:
-        print('======VGG======')
-        net = models.vgg16(pretrained=False)
-    elif args.mode == 4:
         print('======GoogleNet======')
         net = models.googlenet(pretrained=False)
-    elif args.mode == 5:
+    elif args.mode == 4:
         print('======Resnet18======')
         net = models.resnet18(pretrained=False)
-    elif args.mode == 6:
+    elif args.mode == 5:
         print('======Resnet34(Pretrained)======')
         net = models.resnet34(pretrained=True)
-    elif args.mode == 7:
+    elif args.mode == 6:
         print('======DenseNet161(Pretrained)======')
         net = models.densenet161(pretrained=True)
     else:
