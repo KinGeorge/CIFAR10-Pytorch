@@ -71,7 +71,7 @@ We offer 3 types of bash scripts for you to try, which the hyper-parameters are 
 | [Resent34](https://arxiv.org/pdf/1512.03385v1.pdf)(w pretrian)(5) |  96.620  |
 | [DenseNet](https://arxiv.org/pdf/1608.06993.pdf)(w pretrian)(6) |  86.810  |
 
-Configuration of our simple CNN model:
+Configuration of our simple CNN model will be discusses in the report.
 
 
 
