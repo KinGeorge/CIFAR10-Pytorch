@@ -17,7 +17,7 @@
   ├── scripts
   │   ├──exe.sh                              // shell script for training with our model.
   │   ├──exe_alex.sh                         // shell script for training with Alexnet(Baseline).
-  │   ├──exe_dense.sh                        // shell script for training with DenseNet161(Best Result).
+  │   ├──exe_res.sh                          // shell script for training with Resnet34(Best Result).
   ├── train.py                               // Train API entry.
 ```
 
@@ -68,8 +68,8 @@ We offer 3 types of bash scripts for you to try, which the hyper-parameters are 
 | [AlexNet](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)(2) |  78.090  |
 | [GoogleNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)(3) |  84.120  |
 |    [Resnet18](https://arxiv.org/pdf/1512.03385v1.pdf)(4)     |  83.810  |
-| [Resent34](https://arxiv.org/pdf/1512.03385v1.pdf)(w pretrian)(5) |  84.040  |
-| [DenseNet](https://arxiv.org/pdf/1608.06993.pdf)(w pretrian)(6) |          |
+| [Resent34](https://arxiv.org/pdf/1512.03385v1.pdf)(w pretrian)(5) |  97.000  |
+| [DenseNet](https://arxiv.org/pdf/1608.06993.pdf)(w pretrian)(6) |  86.810  |
 
 Configuration of our simple CNN model:
 

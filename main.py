@@ -46,6 +46,9 @@ def run():
     elif args.mode == 5:
         print('======Resnet34(Pretrained)======')
         net = models.resnet34(pretrained=True)
+        # Substitute the FC output layer
+        net.fc = torch.nn.Linear(net.fc.in_features, 10)
+        torch.nn.init.xavier_uniform_(net.fc.weight)
     elif args.mode == 6:
         print('======DenseNet161(Pretrained)======')
         net = models.densenet161(pretrained=True)

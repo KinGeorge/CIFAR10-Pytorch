@@ -13,7 +13,7 @@ args = get_args()
 def create_dataset():
     
     # Data Augmentation
-    if args.mode == 2 or args.mode == 3: # For AlexNet to work, Need to Reshape to (227,227)
+    if args.mode == 2: # For AlexNet to work, Need to Reshape to (227,227)
         transform_train = transforms.Compose([
             transforms.Resize((227,227)), 
             transforms.RandomHorizontalFlip(p=0.7), 
@@ -23,6 +23,18 @@ def create_dataset():
             transforms.Resize((227,227)), 
             transforms.ToTensor(), 
             transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])])
+    elif args.mode == 5:
+        transform_train = torchvision.transforms.Compose([
+            torchvision.transforms.Resize((224,224)),
+            torchvision.transforms.AutoAugment(policy=torchvision.transforms.AutoAugmentPolicy.CIFAR10),
+            torchvision.transforms.ToTensor(),
+            torchvision.transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])])
+
+        transform_test = torchvision.transforms.Compose([
+            torchvision.transforms.Resize((224,224)),
+            torchvision.transforms.ToTensor(),
+            torchvision.transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])])
+
     else:
         transform_train = transforms.Compose([
             transforms.RandomCrop(32, padding=4),
