@@ -64,13 +64,13 @@ We offer 3 types of bash scripts for you to try, which the hyper-parameters are 
 |                         Model(mode)                          | Test Acc |
 | :----------------------------------------------------------: | :------: |
 |                           Ours(0)                            |          |
-|   [LeNet](https://ieeexplore.ieee.org/document/726791)(1)    |          |
-| [AlexNet](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)(2) |          |
+|   [LeNet](https://ieeexplore.ieee.org/document/726791)(1)    |  72.800  |
+| [AlexNet](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)(2) |  78.090  |
 |        [VGG](https://arxiv.org/pdf/1409.1556.pdf)(3)         |          |
-| [GoogleNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)(4) |          |
-| [Resnet18](https://arxiv.org/pdf/1512.03385v1.pdf)(5) |          |
-| [Resent34](https://arxiv.org/pdf/1512.03385v1.pdf)(w pretrian)(6) |          |
-|     [DenseNet](https://arxiv.org/pdf/1608.06993.pdf)(w pretrian)(7)      |          |
+| [GoogleNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)(4) |  84.120  |
+|    [Resnet18](https://arxiv.org/pdf/1512.03385v1.pdf)(5)     |  83.810  |
+| [Resent34](https://arxiv.org/pdf/1512.03385v1.pdf)(w pretrian)(6) |  84.040  |
+| [DenseNet](https://arxiv.org/pdf/1608.06993.pdf)(w pretrian)(7) |          |
 
 Configuration of our simple CNN model:
 
