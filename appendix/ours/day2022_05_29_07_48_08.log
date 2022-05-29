@@ -1,0 +1,4685 @@
+*************************************Current time is: 2022-05-29-07:48 **************************************
+Your device is:  cuda:0
+======creating dataset======
+======defining model======
+======CNN======
+
+======Training in Epoch: 0======
+======Batch 0======
+Loss: 2.309 | Acc: 11.600% (29/250)
+======Batch 50======
+Loss: 3.598 | Acc: 17.373% (2215/12750)
+======Batch 100======
+Loss: 2.714 | Acc: 24.539% (6196/25250)
+======Batch 150======
+Loss: 2.360 | Acc: 28.797% (10871/37750)
+EPOCH 0 TOTAL: Loss: 2.162 | Acc: 32.126% (16063/50000)
+Accuracy of class plane is 44.0 %
+Accuracy of class car   is 40.2 %
+Accuracy of class bird  is 16.6 %
+Accuracy of class cat   is 18.2 %
+Accuracy of class deer  is 24.8 %
+Accuracy of class dog   is 24.3 %
+Accuracy of class frog  is 38.4 %
+Accuracy of class horse is 39.4 %
+Accuracy of class ship  is 37.2 %
+Accuracy of class truck is 38.1 %
+Train Time Spent: 28.363905906677246
+
+======Testing in Epoch: 0======
+Loss: 1.520 | Acc: 42.770% (4277/10000)
+Accuracy of class plane is 61.3 %
+Accuracy of class car   is 79.2 %
+Accuracy of class bird  is 22.2 %
+Accuracy of class cat   is 26.0 %
+Accuracy of class deer  is 50.4 %
+Accuracy of class dog   is 34.7 %
+Accuracy of class frog  is 43.7 %
+Accuracy of class horse is 52.5 %
+Accuracy of class ship  is 29.9 %
+Accuracy of class truck is 27.8 %
+Test Time Spent: 7.083917856216431
+
+======Training in Epoch: 1======
+======Batch 0======
+Loss: 1.596 | Acc: 42.400% (106/250)
+======Batch 50======
+Loss: 1.434 | Acc: 46.086% (5876/12750)
+======Batch 100======
+Loss: 1.399 | Acc: 48.194% (12169/25250)
+======Batch 150======
+Loss: 1.364 | Acc: 49.595% (18722/37750)
+EPOCH 1 TOTAL: Loss: 1.333 | Acc: 50.962% (25481/50000)
+Accuracy of class plane is 51.2 %
+Accuracy of class car   is 67.6 %
+Accuracy of class bird  is 34.0 %
+Accuracy of class cat   is 30.6 %
+Accuracy of class deer  is 39.5 %
+Accuracy of class dog   is 43.3 %
+Accuracy of class frog  is 61.6 %
+Accuracy of class horse is 58.0 %
+Accuracy of class ship  is 63.9 %
+Accuracy of class truck is 60.0 %
+Train Time Spent: 29.20311737060547
+
+======Training in Epoch: 2======
+======Batch 0======
+Loss: 1.094 | Acc: 59.600% (149/250)
+======Batch 50======
+Loss: 1.178 | Acc: 57.420% (7321/12750)
+======Batch 100======
+Loss: 1.158 | Acc: 58.055% (14659/25250)
+======Batch 150======
+Loss: 1.142 | Acc: 58.713% (22164/37750)
+EPOCH 2 TOTAL: Loss: 1.119 | Acc: 59.586% (29793/50000)
+Accuracy of class plane is 61.9 %
+Accuracy of class car   is 75.8 %
+Accuracy of class bird  is 44.1 %
+Accuracy of class cat   is 35.4 %
+Accuracy of class deer  is 50.0 %
+Accuracy of class dog   is 48.9 %
+Accuracy of class frog  is 69.8 %
+Accuracy of class horse is 65.1 %
+Accuracy of class ship  is 75.7 %
+Accuracy of class truck is 69.3 %
+Train Time Spent: 30.113476037979126
+
+======Training in Epoch: 3======
+======Batch 0======
+Loss: 0.999 | Acc: 66.800% (167/250)
+======Batch 50======
+Loss: 0.991 | Acc: 64.682% (8247/12750)
+======Batch 100======
+Loss: 0.990 | Acc: 64.428% (16268/25250)
+======Batch 150======
+Loss: 0.974 | Acc: 65.216% (24619/37750)
+EPOCH 3 TOTAL: Loss: 0.958 | Acc: 65.824% (32912/50000)
+Accuracy of class plane is 68.8 %
+Accuracy of class car   is 81.3 %
+Accuracy of class bird  is 53.1 %
+Accuracy of class cat   is 42.6 %
+Accuracy of class deer  is 58.9 %
+Accuracy of class dog   is 55.6 %
+Accuracy of class frog  is 74.0 %
+Accuracy of class horse is 68.9 %
+Accuracy of class ship  is 79.8 %
+Accuracy of class truck is 75.1 %
+Train Time Spent: 30.262216806411743
+
+======Training in Epoch: 4======
+======Batch 0======
+Loss: 0.935 | Acc: 66.400% (166/250)
+======Batch 50======
+Loss: 0.848 | Acc: 69.804% (8900/12750)
+======Batch 100======
+Loss: 0.845 | Acc: 69.980% (17670/25250)
+======Batch 150======
+Loss: 0.844 | Acc: 70.238% (26515/37750)
+EPOCH 4 TOTAL: Loss: 0.834 | Acc: 70.572% (35286/50000)
+Accuracy of class plane is 72.8 %
+Accuracy of class car   is 84.7 %
+Accuracy of class bird  is 60.1 %
+Accuracy of class cat   is 49.4 %
+Accuracy of class deer  is 64.2 %
+Accuracy of class dog   is 59.0 %
+Accuracy of class frog  is 76.9 %
+Accuracy of class horse is 74.3 %
+Accuracy of class ship  is 83.4 %
+Accuracy of class truck is 80.8 %
+Train Time Spent: 30.840496063232422
+
+======Training in Epoch: 5======
+======Batch 0======
+Loss: 0.857 | Acc: 68.400% (171/250)
+======Batch 50======
+Loss: 0.735 | Acc: 74.416% (9488/12750)
+======Batch 100======
+Loss: 0.739 | Acc: 74.285% (18757/25250)
+======Batch 150======
+Loss: 0.735 | Acc: 74.360% (28071/37750)
+EPOCH 5 TOTAL: Loss: 0.730 | Acc: 74.490% (37245/50000)
+Accuracy of class plane is 77.5 %
+Accuracy of class car   is 87.3 %
+Accuracy of class bird  is 64.5 %
+Accuracy of class cat   is 56.1 %
+Accuracy of class deer  is 69.5 %
+Accuracy of class dog   is 64.2 %
+Accuracy of class frog  is 79.8 %
+Accuracy of class horse is 76.9 %
+Accuracy of class ship  is 85.8 %
+Accuracy of class truck is 83.3 %
+Train Time Spent: 30.396421194076538
+
+======Training in Epoch: 6======
+======Batch 0======
+Loss: 0.640 | Acc: 77.200% (193/250)
+======Batch 50======
+Loss: 0.670 | Acc: 76.722% (9782/12750)
+======Batch 100======
+Loss: 0.682 | Acc: 76.364% (19282/25250)
+======Batch 150======
+Loss: 0.678 | Acc: 76.368% (28829/37750)
+EPOCH 6 TOTAL: Loss: 0.673 | Acc: 76.434% (38217/50000)
+Accuracy of class plane is 78.7 %
+Accuracy of class car   is 88.4 %
+Accuracy of class bird  is 67.3 %
+Accuracy of class cat   is 58.8 %
+Accuracy of class deer  is 73.2 %
+Accuracy of class dog   is 64.7 %
+Accuracy of class frog  is 81.2 %
+Accuracy of class horse is 80.2 %
+Accuracy of class ship  is 87.0 %
+Accuracy of class truck is 84.8 %
+Train Time Spent: 30.541645526885986
+
+======Training in Epoch: 7======
+======Batch 0======
+Loss: 0.683 | Acc: 75.200% (188/250)
+======Batch 50======
+Loss: 0.628 | Acc: 78.243% (9976/12750)
+======Batch 100======
+Loss: 0.628 | Acc: 78.226% (19752/25250)
+======Batch 150======
+Loss: 0.628 | Acc: 78.151% (29502/37750)
+EPOCH 7 TOTAL: Loss: 0.625 | Acc: 78.160% (39080/50000)
+Accuracy of class plane is 81.1 %
+Accuracy of class car   is 88.8 %
+Accuracy of class bird  is 70.0 %
+Accuracy of class cat   is 61.5 %
+Accuracy of class deer  is 75.4 %
+Accuracy of class dog   is 66.2 %
+Accuracy of class frog  is 83.3 %
+Accuracy of class horse is 81.5 %
+Accuracy of class ship  is 87.6 %
+Accuracy of class truck is 86.2 %
+Train Time Spent: 30.50693964958191
+
+======Training in Epoch: 8======
+======Batch 0======
+Loss: 0.511 | Acc: 81.200% (203/250)
+======Batch 50======
+Loss: 0.553 | Acc: 80.831% (10306/12750)
+======Batch 100======
+Loss: 0.563 | Acc: 80.487% (20323/25250)
+======Batch 150======
+Loss: 0.563 | Acc: 80.448% (30369/37750)
+EPOCH 8 TOTAL: Loss: 0.562 | Acc: 80.436% (40218/50000)
+Accuracy of class plane is 83.5 %
+Accuracy of class car   is 90.6 %
+Accuracy of class bird  is 72.2 %
+Accuracy of class cat   is 64.9 %
+Accuracy of class deer  is 78.1 %
+Accuracy of class dog   is 69.0 %
+Accuracy of class frog  is 84.6 %
+Accuracy of class horse is 83.9 %
+Accuracy of class ship  is 89.7 %
+Accuracy of class truck is 87.8 %
+Train Time Spent: 30.53397846221924
+
+======Training in Epoch: 9======
+======Batch 0======
+Loss: 0.499 | Acc: 80.800% (202/250)
+======Batch 50======
+Loss: 0.510 | Acc: 82.275% (10490/12750)
+======Batch 100======
+Loss: 0.529 | Acc: 81.584% (20600/25250)
+======Batch 150======
+Loss: 0.531 | Acc: 81.521% (30774/37750)
+EPOCH 9 TOTAL: Loss: 0.531 | Acc: 81.558% (40779/50000)
+Accuracy of class plane is 84.2 %
+Accuracy of class car   is 91.1 %
+Accuracy of class bird  is 74.1 %
+Accuracy of class cat   is 66.8 %
+Accuracy of class deer  is 79.8 %
+Accuracy of class dog   is 71.6 %
+Accuracy of class frog  is 85.7 %
+Accuracy of class horse is 84.7 %
+Accuracy of class ship  is 89.4 %
+Accuracy of class truck is 88.1 %
+Train Time Spent: 30.240305423736572
+
+======Training in Epoch: 10======
+======Batch 0======
+Loss: 0.437 | Acc: 86.800% (217/250)
+======Batch 50======
+Loss: 0.482 | Acc: 83.365% (10629/12750)
+======Batch 100======
+Loss: 0.494 | Acc: 82.982% (20953/25250)
+======Batch 150======
+Loss: 0.494 | Acc: 82.856% (31278/37750)
+EPOCH 10 TOTAL: Loss: 0.498 | Acc: 82.758% (41379/50000)
+Accuracy of class plane is 85.9 %
+Accuracy of class car   is 91.8 %
+Accuracy of class bird  is 76.1 %
+Accuracy of class cat   is 68.4 %
+Accuracy of class deer  is 81.0 %
+Accuracy of class dog   is 73.1 %
+Accuracy of class frog  is 86.5 %
+Accuracy of class horse is 85.2 %
+Accuracy of class ship  is 90.3 %
+Accuracy of class truck is 89.3 %
+Train Time Spent: 30.21096110343933
+
+======Testing in Epoch: 10======
+Loss: 0.637 | Acc: 78.460% (7846/10000)
+Accuracy of class plane is 78.6 %
+Accuracy of class car   is 95.3 %
+Accuracy of class bird  is 60.6 %
+Accuracy of class cat   is 74.6 %
+Accuracy of class deer  is 74.1 %
+Accuracy of class dog   is 64.3 %
+Accuracy of class frog  is 84.7 %
+Accuracy of class horse is 84.9 %
+Accuracy of class ship  is 83.2 %
+Accuracy of class truck is 84.3 %
+Test Time Spent: 6.98943567276001
+
+======Training in Epoch: 11======
+======Batch 0======
+Loss: 0.404 | Acc: 86.400% (216/250)
+======Batch 50======
+Loss: 0.442 | Acc: 84.949% (10831/12750)
+======Batch 100======
+Loss: 0.446 | Acc: 84.558% (21351/25250)
+======Batch 150======
+Loss: 0.452 | Acc: 84.281% (31816/37750)
+EPOCH 11 TOTAL: Loss: 0.459 | Acc: 84.020% (42010/50000)
+Accuracy of class plane is 86.8 %
+Accuracy of class car   is 92.6 %
+Accuracy of class bird  is 77.7 %
+Accuracy of class cat   is 69.6 %
+Accuracy of class deer  is 82.3 %
+Accuracy of class dog   is 75.1 %
+Accuracy of class frog  is 87.7 %
+Accuracy of class horse is 87.1 %
+Accuracy of class ship  is 91.3 %
+Accuracy of class truck is 89.9 %
+Train Time Spent: 30.526907444000244
+
+======Training in Epoch: 12======
+======Batch 0======
+Loss: 0.414 | Acc: 84.400% (211/250)
+======Batch 50======
+Loss: 0.429 | Acc: 84.941% (10830/12750)
+======Batch 100======
+Loss: 0.432 | Acc: 84.760% (21402/25250)
+======Batch 150======
+Loss: 0.439 | Acc: 84.617% (31943/37750)
+EPOCH 12 TOTAL: Loss: 0.441 | Acc: 84.600% (42300/50000)
+Accuracy of class plane is 86.5 %
+Accuracy of class car   is 92.8 %
+Accuracy of class bird  is 78.8 %
+Accuracy of class cat   is 71.3 %
+Accuracy of class deer  is 83.3 %
+Accuracy of class dog   is 75.9 %
+Accuracy of class frog  is 88.2 %
+Accuracy of class horse is 87.0 %
+Accuracy of class ship  is 91.3 %
+Accuracy of class truck is 90.9 %
+Train Time Spent: 31.059366703033447
+
+======Training in Epoch: 13======
+======Batch 0======
+Loss: 0.329 | Acc: 88.000% (220/250)
+======Batch 50======
+Loss: 0.394 | Acc: 86.369% (11012/12750)
+======Batch 100======
+Loss: 0.411 | Acc: 85.885% (21686/25250)
+======Batch 150======
+Loss: 0.409 | Acc: 85.883% (32421/37750)
+EPOCH 13 TOTAL: Loss: 0.412 | Acc: 85.696% (42848/50000)
+Accuracy of class plane is 88.1 %
+Accuracy of class car   is 93.4 %
+Accuracy of class bird  is 80.4 %
+Accuracy of class cat   is 73.3 %
+Accuracy of class deer  is 84.1 %
+Accuracy of class dog   is 76.7 %
+Accuracy of class frog  is 89.1 %
+Accuracy of class horse is 88.4 %
+Accuracy of class ship  is 92.2 %
+Accuracy of class truck is 91.3 %
+Train Time Spent: 30.52831244468689
+
+======Training in Epoch: 14======
+======Batch 0======
+Loss: 0.418 | Acc: 86.000% (215/250)
+======Batch 50======
+Loss: 0.381 | Acc: 86.376% (11013/12750)
+======Batch 100======
+Loss: 0.394 | Acc: 86.048% (21727/25250)
+======Batch 150======
+Loss: 0.396 | Acc: 86.064% (32489/37750)
+EPOCH 14 TOTAL: Loss: 0.396 | Acc: 86.074% (43037/50000)
+Accuracy of class plane is 88.6 %
+Accuracy of class car   is 93.3 %
+Accuracy of class bird  is 81.0 %
+Accuracy of class cat   is 73.5 %
+Accuracy of class deer  is 84.3 %
+Accuracy of class dog   is 77.3 %
+Accuracy of class frog  is 89.4 %
+Accuracy of class horse is 88.8 %
+Accuracy of class ship  is 92.8 %
+Accuracy of class truck is 91.8 %
+Train Time Spent: 30.724940061569214
+
+======Training in Epoch: 15======
+======Batch 0======
+Loss: 0.348 | Acc: 86.800% (217/250)
+======Batch 50======
+Loss: 0.351 | Acc: 87.710% (11183/12750)
+======Batch 100======
+Loss: 0.358 | Acc: 87.406% (22070/25250)
+======Batch 150======
+Loss: 0.370 | Acc: 87.163% (32904/37750)
+EPOCH 15 TOTAL: Loss: 0.374 | Acc: 87.022% (43511/50000)
+Accuracy of class plane is 89.0 %
+Accuracy of class car   is 93.8 %
+Accuracy of class bird  is 82.3 %
+Accuracy of class cat   is 75.4 %
+Accuracy of class deer  is 85.8 %
+Accuracy of class dog   is 79.1 %
+Accuracy of class frog  is 90.2 %
+Accuracy of class horse is 89.8 %
+Accuracy of class ship  is 93.0 %
+Accuracy of class truck is 91.9 %
+Train Time Spent: 30.311806440353394
+
+======Training in Epoch: 16======
+======Batch 0======
+Loss: 0.358 | Acc: 88.000% (220/250)
+======Batch 50======
+Loss: 0.332 | Acc: 88.596% (11296/12750)
+======Batch 100======
+Loss: 0.337 | Acc: 88.293% (22294/25250)
+======Batch 150======
+Loss: 0.347 | Acc: 87.950% (33201/37750)
+EPOCH 16 TOTAL: Loss: 0.350 | Acc: 87.918% (43959/50000)
+Accuracy of class plane is 90.1 %
+Accuracy of class car   is 94.7 %
+Accuracy of class bird  is 83.9 %
+Accuracy of class cat   is 76.7 %
+Accuracy of class deer  is 86.8 %
+Accuracy of class dog   is 78.5 %
+Accuracy of class frog  is 90.6 %
+Accuracy of class horse is 90.7 %
+Accuracy of class ship  is 94.2 %
+Accuracy of class truck is 93.0 %
+Train Time Spent: 30.466882467269897
+
+======Training in Epoch: 17======
+======Batch 0======
+Loss: 0.267 | Acc: 90.000% (225/250)
+======Batch 50======
+Loss: 0.329 | Acc: 88.612% (11298/12750)
+======Batch 100======
+Loss: 0.333 | Acc: 88.372% (22314/25250)
+======Batch 150======
+Loss: 0.335 | Acc: 88.387% (33366/37750)
+EPOCH 17 TOTAL: Loss: 0.337 | Acc: 88.300% (44150/50000)
+Accuracy of class plane is 89.8 %
+Accuracy of class car   is 94.2 %
+Accuracy of class bird  is 84.1 %
+Accuracy of class cat   is 77.2 %
+Accuracy of class deer  is 87.8 %
+Accuracy of class dog   is 80.4 %
+Accuracy of class frog  is 91.5 %
+Accuracy of class horse is 91.0 %
+Accuracy of class ship  is 93.9 %
+Accuracy of class truck is 93.0 %
+Train Time Spent: 30.502488613128662
+
+======Training in Epoch: 18======
+======Batch 0======
+Loss: 0.239 | Acc: 91.200% (228/250)
+======Batch 50======
+Loss: 0.307 | Acc: 89.122% (11363/12750)
+======Batch 100======
+Loss: 0.307 | Acc: 89.212% (22526/25250)
+======Batch 150======
+Loss: 0.313 | Acc: 89.168% (33661/37750)
+EPOCH 18 TOTAL: Loss: 0.319 | Acc: 88.954% (44477/50000)
+Accuracy of class plane is 91.4 %
+Accuracy of class car   is 94.8 %
+Accuracy of class bird  is 84.4 %
+Accuracy of class cat   is 78.4 %
+Accuracy of class deer  is 87.7 %
+Accuracy of class dog   is 81.9 %
+Accuracy of class frog  is 91.7 %
+Accuracy of class horse is 91.5 %
+Accuracy of class ship  is 94.0 %
+Accuracy of class truck is 93.7 %
+Train Time Spent: 30.175864934921265
+
+======Training in Epoch: 19======
+======Batch 0======
+Loss: 0.339 | Acc: 88.800% (222/250)
+======Batch 50======
+Loss: 0.277 | Acc: 90.361% (11521/12750)
+======Batch 100======
+Loss: 0.289 | Acc: 89.889% (22697/25250)
+======Batch 150======
+Loss: 0.301 | Acc: 89.441% (33764/37750)
+EPOCH 19 TOTAL: Loss: 0.308 | Acc: 89.232% (44616/50000)
+Accuracy of class plane is 91.2 %
+Accuracy of class car   is 94.6 %
+Accuracy of class bird  is 85.1 %
+Accuracy of class cat   is 79.7 %
+Accuracy of class deer  is 88.4 %
+Accuracy of class dog   is 81.6 %
+Accuracy of class frog  is 92.0 %
+Accuracy of class horse is 91.8 %
+Accuracy of class ship  is 94.3 %
+Accuracy of class truck is 93.6 %
+Train Time Spent: 30.24130892753601
+
+======Training in Epoch: 20======
+======Batch 0======
+Loss: 0.264 | Acc: 90.000% (225/250)
+======Batch 50======
+Loss: 0.269 | Acc: 90.871% (11586/12750)
+======Batch 100======
+Loss: 0.281 | Acc: 90.246% (22787/25250)
+======Batch 150======
+Loss: 0.289 | Acc: 90.034% (33988/37750)
+EPOCH 20 TOTAL: Loss: 0.293 | Acc: 89.850% (44925/50000)
+Accuracy of class plane is 91.6 %
+Accuracy of class car   is 95.3 %
+Accuracy of class bird  is 85.9 %
+Accuracy of class cat   is 80.4 %
+Accuracy of class deer  is 89.4 %
+Accuracy of class dog   is 82.8 %
+Accuracy of class frog  is 92.4 %
+Accuracy of class horse is 92.4 %
+Accuracy of class ship  is 94.7 %
+Accuracy of class truck is 93.6 %
+Train Time Spent: 30.518897771835327
+
+======Testing in Epoch: 20======
+Loss: 0.549 | Acc: 82.520% (8252/10000)
+Accuracy of class plane is 87.4 %
+Accuracy of class car   is 93.0 %
+Accuracy of class bird  is 69.8 %
+Accuracy of class cat   is 51.0 %
+Accuracy of class deer  is 85.7 %
+Accuracy of class dog   is 87.4 %
+Accuracy of class frog  is 90.7 %
+Accuracy of class horse is 84.9 %
+Accuracy of class ship  is 83.9 %
+Accuracy of class truck is 91.4 %
+Test Time Spent: 6.875622749328613
+
+======Training in Epoch: 21======
+======Batch 0======
+Loss: 0.240 | Acc: 91.200% (228/250)
+======Batch 50======
+Loss: 0.249 | Acc: 91.357% (11648/12750)
+======Batch 100======
+Loss: 0.267 | Acc: 90.768% (22919/25250)
+======Batch 150======
+Loss: 0.270 | Acc: 90.697% (34238/37750)
+EPOCH 21 TOTAL: Loss: 0.276 | Acc: 90.464% (45232/50000)
+Accuracy of class plane is 92.4 %
+Accuracy of class car   is 95.6 %
+Accuracy of class bird  is 86.6 %
+Accuracy of class cat   is 81.8 %
+Accuracy of class deer  is 89.8 %
+Accuracy of class dog   is 83.9 %
+Accuracy of class frog  is 92.8 %
+Accuracy of class horse is 92.7 %
+Accuracy of class ship  is 94.9 %
+Accuracy of class truck is 94.3 %
+Train Time Spent: 30.199698448181152
+
+======Training in Epoch: 22======
+======Batch 0======
+Loss: 0.231 | Acc: 92.400% (231/250)
+======Batch 50======
+Loss: 0.236 | Acc: 91.788% (11703/12750)
+======Batch 100======
+Loss: 0.251 | Acc: 91.204% (23029/25250)
+======Batch 150======
+Loss: 0.257 | Acc: 90.996% (34351/37750)
+EPOCH 22 TOTAL: Loss: 0.264 | Acc: 90.780% (45390/50000)
+Accuracy of class plane is 92.4 %
+Accuracy of class car   is 95.9 %
+Accuracy of class bird  is 88.0 %
+Accuracy of class cat   is 82.0 %
+Accuracy of class deer  is 89.7 %
+Accuracy of class dog   is 84.1 %
+Accuracy of class frog  is 93.7 %
+Accuracy of class horse is 92.5 %
+Accuracy of class ship  is 95.1 %
+Accuracy of class truck is 94.5 %
+Train Time Spent: 30.696735620498657
+
+======Training in Epoch: 23======
+======Batch 0======
+Loss: 0.198 | Acc: 93.600% (234/250)
+======Batch 50======
+Loss: 0.222 | Acc: 92.439% (11786/12750)
+======Batch 100======
+Loss: 0.236 | Acc: 91.790% (23177/25250)
+======Batch 150======
+Loss: 0.242 | Acc: 91.595% (34577/37750)
+EPOCH 23 TOTAL: Loss: 0.248 | Acc: 91.384% (45692/50000)
+Accuracy of class plane is 92.7 %
+Accuracy of class car   is 96.2 %
+Accuracy of class bird  is 88.0 %
+Accuracy of class cat   is 83.2 %
+Accuracy of class deer  is 91.1 %
+Accuracy of class dog   is 85.2 %
+Accuracy of class frog  is 93.6 %
+Accuracy of class horse is 93.5 %
+Accuracy of class ship  is 95.2 %
+Accuracy of class truck is 95.1 %
+Train Time Spent: 30.47633934020996
+
+======Training in Epoch: 24======
+======Batch 0======
+Loss: 0.218 | Acc: 92.000% (230/250)
+======Batch 50======
+Loss: 0.214 | Acc: 92.408% (11782/12750)
+======Batch 100======
+Loss: 0.224 | Acc: 92.071% (23248/25250)
+======Batch 150======
+Loss: 0.233 | Acc: 91.833% (34667/37750)
+EPOCH 24 TOTAL: Loss: 0.236 | Acc: 91.684% (45842/50000)
+Accuracy of class plane is 92.9 %
+Accuracy of class car   is 96.4 %
+Accuracy of class bird  is 88.4 %
+Accuracy of class cat   is 84.1 %
+Accuracy of class deer  is 91.4 %
+Accuracy of class dog   is 85.8 %
+Accuracy of class frog  is 93.7 %
+Accuracy of class horse is 93.7 %
+Accuracy of class ship  is 95.7 %
+Accuracy of class truck is 95.0 %
+Train Time Spent: 30.98527479171753
+
+======Training in Epoch: 25======
+======Batch 0======
+Loss: 0.225 | Acc: 94.000% (235/250)
+======Batch 50======
+Loss: 0.211 | Acc: 92.667% (11815/12750)
+======Batch 100======
+Loss: 0.219 | Acc: 92.424% (23337/25250)
+======Batch 150======
+Loss: 0.224 | Acc: 92.281% (34836/37750)
+EPOCH 25 TOTAL: Loss: 0.226 | Acc: 92.154% (46077/50000)
+Accuracy of class plane is 93.5 %
+Accuracy of class car   is 96.6 %
+Accuracy of class bird  is 89.2 %
+Accuracy of class cat   is 84.5 %
+Accuracy of class deer  is 91.8 %
+Accuracy of class dog   is 86.3 %
+Accuracy of class frog  is 94.6 %
+Accuracy of class horse is 94.0 %
+Accuracy of class ship  is 95.8 %
+Accuracy of class truck is 95.4 %
+Train Time Spent: 30.44798755645752
+
+======Training in Epoch: 26======
+======Batch 0======
+Loss: 0.178 | Acc: 94.400% (236/250)
+======Batch 50======
+Loss: 0.203 | Acc: 92.988% (11856/12750)
+======Batch 100======
+Loss: 0.205 | Acc: 92.947% (23469/25250)
+======Batch 150======
+Loss: 0.213 | Acc: 92.593% (34954/37750)
+EPOCH 26 TOTAL: Loss: 0.220 | Acc: 92.318% (46159/50000)
+Accuracy of class plane is 93.9 %
+Accuracy of class car   is 96.5 %
+Accuracy of class bird  is 89.1 %
+Accuracy of class cat   is 85.0 %
+Accuracy of class deer  is 92.1 %
+Accuracy of class dog   is 86.8 %
+Accuracy of class frog  is 94.8 %
+Accuracy of class horse is 93.8 %
+Accuracy of class ship  is 95.9 %
+Accuracy of class truck is 95.4 %
+Train Time Spent: 30.05808711051941
+
+======Training in Epoch: 27======
+======Batch 0======
+Loss: 0.148 | Acc: 95.600% (239/250)
+======Batch 50======
+Loss: 0.187 | Acc: 93.435% (11913/12750)
+======Batch 100======
+Loss: 0.197 | Acc: 93.093% (23506/25250)
+======Batch 150======
+Loss: 0.203 | Acc: 92.988% (35103/37750)
+EPOCH 27 TOTAL: Loss: 0.210 | Acc: 92.702% (46351/50000)
+Accuracy of class plane is 93.8 %
+Accuracy of class car   is 96.7 %
+Accuracy of class bird  is 90.5 %
+Accuracy of class cat   is 85.8 %
+Accuracy of class deer  is 92.5 %
+Accuracy of class dog   is 87.1 %
+Accuracy of class frog  is 94.3 %
+Accuracy of class horse is 94.7 %
+Accuracy of class ship  is 96.2 %
+Accuracy of class truck is 95.3 %
+Train Time Spent: 30.583632469177246
+
+======Training in Epoch: 28======
+======Batch 0======
+Loss: 0.182 | Acc: 93.200% (233/250)
+======Batch 50======
+Loss: 0.185 | Acc: 93.412% (11910/12750)
+======Batch 100======
+Loss: 0.200 | Acc: 93.073% (23501/25250)
+======Batch 150======
+Loss: 0.201 | Acc: 93.001% (35108/37750)
+EPOCH 28 TOTAL: Loss: 0.208 | Acc: 92.774% (46387/50000)
+Accuracy of class plane is 94.1 %
+Accuracy of class car   is 96.2 %
+Accuracy of class bird  is 90.3 %
+Accuracy of class cat   is 86.0 %
+Accuracy of class deer  is 92.3 %
+Accuracy of class dog   is 87.7 %
+Accuracy of class frog  is 94.7 %
+Accuracy of class horse is 94.4 %
+Accuracy of class ship  is 96.4 %
+Accuracy of class truck is 95.5 %
+Train Time Spent: 30.633643627166748
+
+======Training in Epoch: 29======
+======Batch 0======
+Loss: 0.164 | Acc: 94.400% (236/250)
+======Batch 50======
+Loss: 0.162 | Acc: 94.329% (12027/12750)
+======Batch 100======
+Loss: 0.178 | Acc: 93.711% (23662/25250)
+======Batch 150======
+Loss: 0.190 | Acc: 93.253% (35203/37750)
+EPOCH 29 TOTAL: Loss: 0.195 | Acc: 93.110% (46555/50000)
+Accuracy of class plane is 94.3 %
+Accuracy of class car   is 96.9 %
+Accuracy of class bird  is 90.6 %
+Accuracy of class cat   is 86.6 %
+Accuracy of class deer  is 92.6 %
+Accuracy of class dog   is 87.9 %
+Accuracy of class frog  is 95.2 %
+Accuracy of class horse is 94.8 %
+Accuracy of class ship  is 96.3 %
+Accuracy of class truck is 95.8 %
+Train Time Spent: 30.732113361358643
+
+======Training in Epoch: 30======
+======Batch 0======
+Loss: 0.189 | Acc: 92.800% (232/250)
+======Batch 50======
+Loss: 0.172 | Acc: 93.976% (11982/12750)
+======Batch 100======
+Loss: 0.183 | Acc: 93.612% (23637/25250)
+======Batch 150======
+Loss: 0.187 | Acc: 93.460% (35281/37750)
+EPOCH 30 TOTAL: Loss: 0.192 | Acc: 93.292% (46646/50000)
+Accuracy of class plane is 94.3 %
+Accuracy of class car   is 96.7 %
+Accuracy of class bird  is 91.2 %
+Accuracy of class cat   is 86.9 %
+Accuracy of class deer  is 92.6 %
+Accuracy of class dog   is 88.9 %
+Accuracy of class frog  is 94.9 %
+Accuracy of class horse is 95.2 %
+Accuracy of class ship  is 96.5 %
+Accuracy of class truck is 95.7 %
+Train Time Spent: 30.465129852294922
+
+======Testing in Epoch: 30======
+Loss: 0.607 | Acc: 82.920% (8292/10000)
+Accuracy of class plane is 92.7 %
+Accuracy of class car   is 87.6 %
+Accuracy of class bird  is 66.9 %
+Accuracy of class cat   is 61.7 %
+Accuracy of class deer  is 82.7 %
+Accuracy of class dog   is 85.4 %
+Accuracy of class frog  is 90.9 %
+Accuracy of class horse is 93.3 %
+Accuracy of class ship  is 75.7 %
+Accuracy of class truck is 92.3 %
+Test Time Spent: 6.711705446243286
+
+======Training in Epoch: 31======
+======Batch 0======
+Loss: 0.148 | Acc: 95.600% (239/250)
+======Batch 50======
+Loss: 0.165 | Acc: 94.494% (12048/12750)
+======Batch 100======
+Loss: 0.169 | Acc: 94.198% (23785/25250)
+======Batch 150======
+Loss: 0.172 | Acc: 94.106% (35525/37750)
+EPOCH 31 TOTAL: Loss: 0.181 | Acc: 93.778% (46889/50000)
+Accuracy of class plane is 94.6 %
+Accuracy of class car   is 97.2 %
+Accuracy of class bird  is 91.3 %
+Accuracy of class cat   is 87.9 %
+Accuracy of class deer  is 93.6 %
+Accuracy of class dog   is 89.6 %
+Accuracy of class frog  is 95.0 %
+Accuracy of class horse is 95.4 %
+Accuracy of class ship  is 96.9 %
+Accuracy of class truck is 96.4 %
+Train Time Spent: 30.355438709259033
+
+======Training in Epoch: 32======
+======Batch 0======
+Loss: 0.232 | Acc: 92.000% (230/250)
+======Batch 50======
+Loss: 0.167 | Acc: 94.353% (12030/12750)
+======Batch 100======
+Loss: 0.174 | Acc: 94.059% (23750/25250)
+======Batch 150======
+Loss: 0.174 | Acc: 94.066% (35510/37750)
+EPOCH 32 TOTAL: Loss: 0.179 | Acc: 93.876% (46938/50000)
+Accuracy of class plane is 94.8 %
+Accuracy of class car   is 97.1 %
+Accuracy of class bird  is 91.7 %
+Accuracy of class cat   is 88.2 %
+Accuracy of class deer  is 93.6 %
+Accuracy of class dog   is 89.7 %
+Accuracy of class frog  is 95.6 %
+Accuracy of class horse is 95.5 %
+Accuracy of class ship  is 96.5 %
+Accuracy of class truck is 96.1 %
+Train Time Spent: 30.735424041748047
+
+======Training in Epoch: 33======
+======Batch 0======
+Loss: 0.151 | Acc: 92.800% (232/250)
+======Batch 50======
+Loss: 0.147 | Acc: 94.847% (12093/12750)
+======Batch 100======
+Loss: 0.162 | Acc: 94.218% (23790/25250)
+======Batch 150======
+Loss: 0.166 | Acc: 94.146% (35540/37750)
+EPOCH 33 TOTAL: Loss: 0.172 | Acc: 93.934% (46967/50000)
+Accuracy of class plane is 94.8 %
+Accuracy of class car   is 97.2 %
+Accuracy of class bird  is 91.7 %
+Accuracy of class cat   is 88.3 %
+Accuracy of class deer  is 93.2 %
+Accuracy of class dog   is 90.2 %
+Accuracy of class frog  is 95.2 %
+Accuracy of class horse is 95.2 %
+Accuracy of class ship  is 96.8 %
+Accuracy of class truck is 96.7 %
+Train Time Spent: 30.667251348495483
+
+======Training in Epoch: 34======
+======Batch 0======
+Loss: 0.181 | Acc: 92.000% (230/250)
+======Batch 50======
+Loss: 0.148 | Acc: 94.761% (12082/12750)
+======Batch 100======
+Loss: 0.153 | Acc: 94.594% (23885/25250)
+======Batch 150======
+Loss: 0.160 | Acc: 94.379% (35628/37750)
+EPOCH 34 TOTAL: Loss: 0.164 | Acc: 94.278% (47139/50000)
+Accuracy of class plane is 95.4 %
+Accuracy of class car   is 97.1 %
+Accuracy of class bird  is 92.3 %
+Accuracy of class cat   is 89.8 %
+Accuracy of class deer  is 93.8 %
+Accuracy of class dog   is 90.2 %
+Accuracy of class frog  is 95.7 %
+Accuracy of class horse is 95.2 %
+Accuracy of class ship  is 97.1 %
+Accuracy of class truck is 96.3 %
+Train Time Spent: 30.45757246017456
+
+======Training in Epoch: 35======
+======Batch 0======
+Loss: 0.160 | Acc: 94.000% (235/250)
+======Batch 50======
+Loss: 0.132 | Acc: 95.624% (12192/12750)
+======Batch 100======
+Loss: 0.144 | Acc: 95.014% (23991/25250)
+======Batch 150======
+Loss: 0.154 | Acc: 94.750% (35768/37750)
+EPOCH 35 TOTAL: Loss: 0.163 | Acc: 94.416% (47208/50000)
+Accuracy of class plane is 95.3 %
+Accuracy of class car   is 97.3 %
+Accuracy of class bird  is 92.3 %
+Accuracy of class cat   is 89.2 %
+Accuracy of class deer  is 94.6 %
+Accuracy of class dog   is 91.1 %
+Accuracy of class frog  is 95.7 %
+Accuracy of class horse is 95.4 %
+Accuracy of class ship  is 96.7 %
+Accuracy of class truck is 96.4 %
+Train Time Spent: 30.726648569107056
+
+======Training in Epoch: 36======
+======Batch 0======
+Loss: 0.127 | Acc: 96.000% (240/250)
+======Batch 50======
+Loss: 0.144 | Acc: 95.184% (12136/12750)
+======Batch 100======
+Loss: 0.141 | Acc: 95.275% (24057/25250)
+======Batch 150======
+Loss: 0.146 | Acc: 95.160% (35923/37750)
+EPOCH 36 TOTAL: Loss: 0.152 | Acc: 94.872% (47436/50000)
+Accuracy of class plane is 95.4 %
+Accuracy of class car   is 97.3 %
+Accuracy of class bird  is 93.3 %
+Accuracy of class cat   is 90.4 %
+Accuracy of class deer  is 94.9 %
+Accuracy of class dog   is 91.8 %
+Accuracy of class frog  is 96.1 %
+Accuracy of class horse is 96.1 %
+Accuracy of class ship  is 97.1 %
+Accuracy of class truck is 96.3 %
+Train Time Spent: 30.511310815811157
+
+======Training in Epoch: 37======
+======Batch 0======
+Loss: 0.113 | Acc: 96.400% (241/250)
+======Batch 50======
+Loss: 0.137 | Acc: 95.224% (12141/12750)
+======Batch 100======
+Loss: 0.140 | Acc: 95.125% (24019/25250)
+======Batch 150======
+Loss: 0.144 | Acc: 94.964% (35849/37750)
+EPOCH 37 TOTAL: Loss: 0.149 | Acc: 94.792% (47396/50000)
+Accuracy of class plane is 95.6 %
+Accuracy of class car   is 97.6 %
+Accuracy of class bird  is 92.8 %
+Accuracy of class cat   is 89.9 %
+Accuracy of class deer  is 94.4 %
+Accuracy of class dog   is 91.9 %
+Accuracy of class frog  is 95.9 %
+Accuracy of class horse is 96.0 %
+Accuracy of class ship  is 97.1 %
+Accuracy of class truck is 96.8 %
+Train Time Spent: 30.633256435394287
+
+======Training in Epoch: 38======
+======Batch 0======
+Loss: 0.109 | Acc: 96.400% (241/250)
+======Batch 50======
+Loss: 0.136 | Acc: 95.325% (12154/12750)
+======Batch 100======
+Loss: 0.145 | Acc: 94.927% (23969/25250)
+======Batch 150======
+Loss: 0.149 | Acc: 94.811% (35791/37750)
+EPOCH 38 TOTAL: Loss: 0.153 | Acc: 94.692% (47346/50000)
+Accuracy of class plane is 95.5 %
+Accuracy of class car   is 97.4 %
+Accuracy of class bird  is 92.7 %
+Accuracy of class cat   is 90.3 %
+Accuracy of class deer  is 94.7 %
+Accuracy of class dog   is 91.1 %
+Accuracy of class frog  is 96.0 %
+Accuracy of class horse is 95.7 %
+Accuracy of class ship  is 97.0 %
+Accuracy of class truck is 96.6 %
+Train Time Spent: 30.550661325454712
+
+======Training in Epoch: 39======
+======Batch 0======
+Loss: 0.156 | Acc: 95.600% (239/250)
+======Batch 50======
+Loss: 0.133 | Acc: 95.522% (12179/12750)
+======Batch 100======
+Loss: 0.143 | Acc: 95.141% (24023/25250)
+======Batch 150======
+Loss: 0.145 | Acc: 94.964% (35849/37750)
+EPOCH 39 TOTAL: Loss: 0.145 | Acc: 94.978% (47489/50000)
+Accuracy of class plane is 95.7 %
+Accuracy of class car   is 97.4 %
+Accuracy of class bird  is 93.2 %
+Accuracy of class cat   is 90.7 %
+Accuracy of class deer  is 95.0 %
+Accuracy of class dog   is 91.7 %
+Accuracy of class frog  is 96.1 %
+Accuracy of class horse is 95.9 %
+Accuracy of class ship  is 97.1 %
+Accuracy of class truck is 96.9 %
+Train Time Spent: 30.960317373275757
+
+======Training in Epoch: 40======
+======Batch 0======
+Loss: 0.097 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.114 | Acc: 96.243% (12271/12750)
+======Batch 100======
+Loss: 0.123 | Acc: 95.782% (24185/25250)
+======Batch 150======
+Loss: 0.128 | Acc: 95.550% (36070/37750)
+EPOCH 40 TOTAL: Loss: 0.140 | Acc: 95.098% (47549/50000)
+Accuracy of class plane is 95.9 %
+Accuracy of class car   is 97.6 %
+Accuracy of class bird  is 93.1 %
+Accuracy of class cat   is 90.9 %
+Accuracy of class deer  is 94.4 %
+Accuracy of class dog   is 92.7 %
+Accuracy of class frog  is 96.1 %
+Accuracy of class horse is 96.2 %
+Accuracy of class ship  is 97.2 %
+Accuracy of class truck is 96.9 %
+Train Time Spent: 30.157477855682373
+
+======Testing in Epoch: 40======
+Loss: 0.563 | Acc: 83.540% (8354/10000)
+Accuracy of class plane is 84.0 %
+Accuracy of class car   is 94.0 %
+Accuracy of class bird  is 73.7 %
+Accuracy of class cat   is 71.7 %
+Accuracy of class deer  is 91.3 %
+Accuracy of class dog   is 74.5 %
+Accuracy of class frog  is 92.6 %
+Accuracy of class horse is 87.1 %
+Accuracy of class ship  is 84.1 %
+Accuracy of class truck is 82.4 %
+Test Time Spent: 7.287317752838135
+
+======Training in Epoch: 41======
+======Batch 0======
+Loss: 0.095 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.129 | Acc: 95.686% (12200/12750)
+======Batch 100======
+Loss: 0.127 | Acc: 95.735% (24173/25250)
+======Batch 150======
+Loss: 0.133 | Acc: 95.475% (36042/37750)
+EPOCH 41 TOTAL: Loss: 0.138 | Acc: 95.284% (47642/50000)
+Accuracy of class plane is 96.3 %
+Accuracy of class car   is 97.7 %
+Accuracy of class bird  is 93.5 %
+Accuracy of class cat   is 91.1 %
+Accuracy of class deer  is 95.1 %
+Accuracy of class dog   is 91.5 %
+Accuracy of class frog  is 96.8 %
+Accuracy of class horse is 96.3 %
+Accuracy of class ship  is 97.4 %
+Accuracy of class truck is 97.3 %
+Train Time Spent: 30.43697500228882
+
+======Training in Epoch: 42======
+======Batch 0======
+Loss: 0.150 | Acc: 94.800% (237/250)
+======Batch 50======
+Loss: 0.117 | Acc: 96.031% (12244/12750)
+======Batch 100======
+Loss: 0.126 | Acc: 95.707% (24166/25250)
+======Batch 150======
+Loss: 0.133 | Acc: 95.423% (36022/37750)
+EPOCH 42 TOTAL: Loss: 0.137 | Acc: 95.294% (47647/50000)
+Accuracy of class plane is 95.6 %
+Accuracy of class car   is 97.5 %
+Accuracy of class bird  is 93.8 %
+Accuracy of class cat   is 91.2 %
+Accuracy of class deer  is 95.0 %
+Accuracy of class dog   is 92.6 %
+Accuracy of class frog  is 96.7 %
+Accuracy of class horse is 96.6 %
+Accuracy of class ship  is 97.1 %
+Accuracy of class truck is 97.0 %
+Train Time Spent: 30.307431936264038
+
+======Training in Epoch: 43======
+======Batch 0======
+Loss: 0.097 | Acc: 95.600% (239/250)
+======Batch 50======
+Loss: 0.106 | Acc: 96.149% (12259/12750)
+======Batch 100======
+Loss: 0.110 | Acc: 96.063% (24256/25250)
+======Batch 150======
+Loss: 0.118 | Acc: 95.825% (36174/37750)
+EPOCH 43 TOTAL: Loss: 0.124 | Acc: 95.602% (47801/50000)
+Accuracy of class plane is 96.3 %
+Accuracy of class car   is 97.8 %
+Accuracy of class bird  is 94.1 %
+Accuracy of class cat   is 91.5 %
+Accuracy of class deer  is 95.4 %
+Accuracy of class dog   is 92.5 %
+Accuracy of class frog  is 96.8 %
+Accuracy of class horse is 97.0 %
+Accuracy of class ship  is 97.5 %
+Accuracy of class truck is 97.2 %
+Train Time Spent: 31.24906063079834
+
+======Training in Epoch: 44======
+======Batch 0======
+Loss: 0.103 | Acc: 96.400% (241/250)
+======Batch 50======
+Loss: 0.113 | Acc: 96.149% (12259/12750)
+======Batch 100======
+Loss: 0.118 | Acc: 95.897% (24214/25250)
+======Batch 150======
+Loss: 0.125 | Acc: 95.687% (36122/37750)
+EPOCH 44 TOTAL: Loss: 0.132 | Acc: 95.404% (47702/50000)
+Accuracy of class plane is 95.8 %
+Accuracy of class car   is 97.4 %
+Accuracy of class bird  is 94.3 %
+Accuracy of class cat   is 91.7 %
+Accuracy of class deer  is 95.0 %
+Accuracy of class dog   is 92.9 %
+Accuracy of class frog  is 96.6 %
+Accuracy of class horse is 96.3 %
+Accuracy of class ship  is 97.4 %
+Accuracy of class truck is 96.6 %
+Train Time Spent: 30.59050750732422
+
+======Training in Epoch: 45======
+======Batch 0======
+Loss: 0.136 | Acc: 94.400% (236/250)
+======Batch 50======
+Loss: 0.123 | Acc: 95.820% (12217/12750)
+======Batch 100======
+Loss: 0.121 | Acc: 95.766% (24181/25250)
+======Batch 150======
+Loss: 0.127 | Acc: 95.581% (36082/37750)
+EPOCH 45 TOTAL: Loss: 0.133 | Acc: 95.314% (47657/50000)
+Accuracy of class plane is 96.1 %
+Accuracy of class car   is 97.7 %
+Accuracy of class bird  is 93.5 %
+Accuracy of class cat   is 91.2 %
+Accuracy of class deer  is 94.8 %
+Accuracy of class dog   is 92.1 %
+Accuracy of class frog  is 96.3 %
+Accuracy of class horse is 96.7 %
+Accuracy of class ship  is 97.6 %
+Accuracy of class truck is 97.0 %
+Train Time Spent: 30.76586151123047
+
+======Training in Epoch: 46======
+======Batch 0======
+Loss: 0.103 | Acc: 96.400% (241/250)
+======Batch 50======
+Loss: 0.101 | Acc: 96.737% (12334/12750)
+======Batch 100======
+Loss: 0.111 | Acc: 96.293% (24314/25250)
+======Batch 150======
+Loss: 0.118 | Acc: 96.029% (36251/37750)
+EPOCH 46 TOTAL: Loss: 0.122 | Acc: 95.854% (47927/50000)
+Accuracy of class plane is 96.4 %
+Accuracy of class car   is 97.9 %
+Accuracy of class bird  is 94.0 %
+Accuracy of class cat   is 92.2 %
+Accuracy of class deer  is 95.8 %
+Accuracy of class dog   is 93.3 %
+Accuracy of class frog  is 96.7 %
+Accuracy of class horse is 97.1 %
+Accuracy of class ship  is 97.7 %
+Accuracy of class truck is 97.3 %
+Train Time Spent: 30.020973682403564
+
+======Training in Epoch: 47======
+======Batch 0======
+Loss: 0.114 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.101 | Acc: 96.463% (12299/12750)
+======Batch 100======
+Loss: 0.108 | Acc: 96.226% (24297/25250)
+======Batch 150======
+Loss: 0.112 | Acc: 96.170% (36304/37750)
+EPOCH 47 TOTAL: Loss: 0.120 | Acc: 95.828% (47914/50000)
+Accuracy of class plane is 96.2 %
+Accuracy of class car   is 97.8 %
+Accuracy of class bird  is 94.2 %
+Accuracy of class cat   is 92.5 %
+Accuracy of class deer  is 95.5 %
+Accuracy of class dog   is 93.3 %
+Accuracy of class frog  is 96.9 %
+Accuracy of class horse is 96.6 %
+Accuracy of class ship  is 97.6 %
+Accuracy of class truck is 97.5 %
+Train Time Spent: 31.350833654403687
+
+======Training in Epoch: 48======
+======Batch 0======
+Loss: 0.164 | Acc: 96.400% (241/250)
+======Batch 50======
+Loss: 0.122 | Acc: 95.827% (12218/12750)
+======Batch 100======
+Loss: 0.117 | Acc: 95.921% (24220/25250)
+======Batch 150======
+Loss: 0.123 | Acc: 95.796% (36163/37750)
+EPOCH 48 TOTAL: Loss: 0.130 | Acc: 95.478% (47739/50000)
+Accuracy of class plane is 95.8 %
+Accuracy of class car   is 97.5 %
+Accuracy of class bird  is 94.3 %
+Accuracy of class cat   is 91.9 %
+Accuracy of class deer  is 94.8 %
+Accuracy of class dog   is 93.0 %
+Accuracy of class frog  is 96.5 %
+Accuracy of class horse is 96.5 %
+Accuracy of class ship  is 97.5 %
+Accuracy of class truck is 97.1 %
+Train Time Spent: 30.608155965805054
+
+======Training in Epoch: 49======
+======Batch 0======
+Loss: 0.095 | Acc: 96.400% (241/250)
+======Batch 50======
+Loss: 0.101 | Acc: 96.549% (12310/12750)
+======Batch 100======
+Loss: 0.114 | Acc: 96.000% (24240/25250)
+======Batch 150======
+Loss: 0.115 | Acc: 95.974% (36230/37750)
+EPOCH 49 TOTAL: Loss: 0.118 | Acc: 95.844% (47922/50000)
+Accuracy of class plane is 96.6 %
+Accuracy of class car   is 97.9 %
+Accuracy of class bird  is 94.2 %
+Accuracy of class cat   is 91.9 %
+Accuracy of class deer  is 96.0 %
+Accuracy of class dog   is 93.3 %
+Accuracy of class frog  is 96.7 %
+Accuracy of class horse is 96.7 %
+Accuracy of class ship  is 97.6 %
+Accuracy of class truck is 97.5 %
+Train Time Spent: 30.42145824432373
+
+======Training in Epoch: 50======
+======Batch 0======
+Loss: 0.057 | Acc: 99.200% (248/250)
+======Batch 50======
+Loss: 0.112 | Acc: 96.141% (12258/12750)
+======Batch 100======
+Loss: 0.114 | Acc: 96.008% (24242/25250)
+======Batch 150======
+Loss: 0.119 | Acc: 95.868% (36190/37750)
+EPOCH 50 TOTAL: Loss: 0.121 | Acc: 95.762% (47881/50000)
+Accuracy of class plane is 96.2 %
+Accuracy of class car   is 97.9 %
+Accuracy of class bird  is 94.5 %
+Accuracy of class cat   is 92.4 %
+Accuracy of class deer  is 95.2 %
+Accuracy of class dog   is 93.4 %
+Accuracy of class frog  is 96.5 %
+Accuracy of class horse is 96.4 %
+Accuracy of class ship  is 97.7 %
+Accuracy of class truck is 97.4 %
+Train Time Spent: 30.315117359161377
+
+======Testing in Epoch: 50======
+Loss: 0.591 | Acc: 83.880% (8388/10000)
+Accuracy of class plane is 86.0 %
+Accuracy of class car   is 92.9 %
+Accuracy of class bird  is 66.4 %
+Accuracy of class cat   is 85.9 %
+Accuracy of class deer  is 83.1 %
+Accuracy of class dog   is 78.1 %
+Accuracy of class frog  is 83.1 %
+Accuracy of class horse is 84.3 %
+Accuracy of class ship  is 90.9 %
+Accuracy of class truck is 88.1 %
+Test Time Spent: 7.724533319473267
+
+======Training in Epoch: 51======
+======Batch 0======
+Loss: 0.078 | Acc: 97.200% (243/250)
+======Batch 50======
+Loss: 0.097 | Acc: 96.643% (12322/12750)
+======Batch 100======
+Loss: 0.106 | Acc: 96.396% (24340/25250)
+======Batch 150======
+Loss: 0.114 | Acc: 96.125% (36287/37750)
+EPOCH 51 TOTAL: Loss: 0.116 | Acc: 96.032% (48016/50000)
+Accuracy of class plane is 96.6 %
+Accuracy of class car   is 98.2 %
+Accuracy of class bird  is 94.6 %
+Accuracy of class cat   is 92.7 %
+Accuracy of class deer  is 95.6 %
+Accuracy of class dog   is 93.7 %
+Accuracy of class frog  is 97.0 %
+Accuracy of class horse is 96.7 %
+Accuracy of class ship  is 97.8 %
+Accuracy of class truck is 97.4 %
+Train Time Spent: 30.521034240722656
+
+======Training in Epoch: 52======
+======Batch 0======
+Loss: 0.141 | Acc: 94.000% (235/250)
+======Batch 50======
+Loss: 0.093 | Acc: 96.776% (12339/12750)
+======Batch 100======
+Loss: 0.111 | Acc: 96.162% (24281/25250)
+======Batch 150======
+Loss: 0.113 | Acc: 95.989% (36236/37750)
+EPOCH 52 TOTAL: Loss: 0.118 | Acc: 95.840% (47920/50000)
+Accuracy of class plane is 96.1 %
+Accuracy of class car   is 97.8 %
+Accuracy of class bird  is 94.0 %
+Accuracy of class cat   is 92.7 %
+Accuracy of class deer  is 95.5 %
+Accuracy of class dog   is 93.8 %
+Accuracy of class frog  is 96.6 %
+Accuracy of class horse is 97.0 %
+Accuracy of class ship  is 97.4 %
+Accuracy of class truck is 97.4 %
+Train Time Spent: 30.700294733047485
+
+======Training in Epoch: 53======
+======Batch 0======
+Loss: 0.164 | Acc: 94.400% (236/250)
+======Batch 50======
+Loss: 0.108 | Acc: 96.212% (12267/12750)
+======Batch 100======
+Loss: 0.106 | Acc: 96.222% (24296/25250)
+======Batch 150======
+Loss: 0.110 | Acc: 96.125% (36287/37750)
+EPOCH 53 TOTAL: Loss: 0.115 | Acc: 95.942% (47971/50000)
+Accuracy of class plane is 96.4 %
+Accuracy of class car   is 97.6 %
+Accuracy of class bird  is 94.7 %
+Accuracy of class cat   is 92.5 %
+Accuracy of class deer  is 95.4 %
+Accuracy of class dog   is 94.1 %
+Accuracy of class frog  is 96.7 %
+Accuracy of class horse is 97.2 %
+Accuracy of class ship  is 97.4 %
+Accuracy of class truck is 97.4 %
+Train Time Spent: 30.471475839614868
+
+======Training in Epoch: 54======
+======Batch 0======
+Loss: 0.107 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.099 | Acc: 96.549% (12310/12750)
+======Batch 100======
+Loss: 0.110 | Acc: 96.139% (24275/25250)
+======Batch 150======
+Loss: 0.115 | Acc: 96.011% (36244/37750)
+EPOCH 54 TOTAL: Loss: 0.118 | Acc: 95.882% (47941/50000)
+Accuracy of class plane is 96.2 %
+Accuracy of class car   is 98.0 %
+Accuracy of class bird  is 94.3 %
+Accuracy of class cat   is 92.4 %
+Accuracy of class deer  is 95.8 %
+Accuracy of class dog   is 93.5 %
+Accuracy of class frog  is 96.8 %
+Accuracy of class horse is 96.9 %
+Accuracy of class ship  is 97.6 %
+Accuracy of class truck is 97.3 %
+Train Time Spent: 30.670840740203857
+
+======Training in Epoch: 55======
+======Batch 0======
+Loss: 0.052 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.088 | Acc: 97.043% (12373/12750)
+======Batch 100======
+Loss: 0.092 | Acc: 96.840% (24452/25250)
+======Batch 150======
+Loss: 0.103 | Acc: 96.469% (36417/37750)
+EPOCH 55 TOTAL: Loss: 0.114 | Acc: 96.072% (48036/50000)
+Accuracy of class plane is 96.9 %
+Accuracy of class car   is 97.8 %
+Accuracy of class bird  is 95.2 %
+Accuracy of class cat   is 92.7 %
+Accuracy of class deer  is 96.0 %
+Accuracy of class dog   is 93.5 %
+Accuracy of class frog  is 96.9 %
+Accuracy of class horse is 96.6 %
+Accuracy of class ship  is 97.4 %
+Accuracy of class truck is 97.6 %
+Train Time Spent: 30.466120719909668
+
+======Training in Epoch: 56======
+======Batch 0======
+Loss: 0.167 | Acc: 94.800% (237/250)
+======Batch 50======
+Loss: 0.094 | Acc: 96.886% (12353/12750)
+======Batch 100======
+Loss: 0.097 | Acc: 96.772% (24435/25250)
+======Batch 150======
+Loss: 0.104 | Acc: 96.490% (36425/37750)
+EPOCH 56 TOTAL: Loss: 0.110 | Acc: 96.258% (48129/50000)
+Accuracy of class plane is 96.4 %
+Accuracy of class car   is 98.2 %
+Accuracy of class bird  is 95.0 %
+Accuracy of class cat   is 93.0 %
+Accuracy of class deer  is 95.8 %
+Accuracy of class dog   is 94.7 %
+Accuracy of class frog  is 97.0 %
+Accuracy of class horse is 97.4 %
+Accuracy of class ship  is 97.6 %
+Accuracy of class truck is 97.5 %
+Train Time Spent: 30.277141571044922
+
+======Training in Epoch: 57======
+======Batch 0======
+Loss: 0.102 | Acc: 96.000% (240/250)
+======Batch 50======
+Loss: 0.096 | Acc: 96.800% (12342/12750)
+======Batch 100======
+Loss: 0.101 | Acc: 96.661% (24407/25250)
+======Batch 150======
+Loss: 0.103 | Acc: 96.535% (36442/37750)
+EPOCH 57 TOTAL: Loss: 0.104 | Acc: 96.454% (48227/50000)
+Accuracy of class plane is 96.2 %
+Accuracy of class car   is 98.5 %
+Accuracy of class bird  is 94.9 %
+Accuracy of class cat   is 93.5 %
+Accuracy of class deer  is 96.2 %
+Accuracy of class dog   is 94.4 %
+Accuracy of class frog  is 97.4 %
+Accuracy of class horse is 97.4 %
+Accuracy of class ship  is 98.0 %
+Accuracy of class truck is 98.1 %
+Train Time Spent: 30.48855972290039
+
+======Training in Epoch: 58======
+======Batch 0======
+Loss: 0.061 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.101 | Acc: 96.439% (12296/12750)
+======Batch 100======
+Loss: 0.109 | Acc: 96.186% (24287/25250)
+======Batch 150======
+Loss: 0.109 | Acc: 96.095% (36276/37750)
+EPOCH 58 TOTAL: Loss: 0.112 | Acc: 96.020% (48010/50000)
+Accuracy of class plane is 96.5 %
+Accuracy of class car   is 97.8 %
+Accuracy of class bird  is 94.5 %
+Accuracy of class cat   is 92.8 %
+Accuracy of class deer  is 95.9 %
+Accuracy of class dog   is 93.9 %
+Accuracy of class frog  is 96.5 %
+Accuracy of class horse is 97.0 %
+Accuracy of class ship  is 97.8 %
+Accuracy of class truck is 97.5 %
+Train Time Spent: 30.559420824050903
+
+======Training in Epoch: 59======
+======Batch 0======
+Loss: 0.114 | Acc: 97.200% (243/250)
+======Batch 50======
+Loss: 0.102 | Acc: 96.549% (12310/12750)
+======Batch 100======
+Loss: 0.102 | Acc: 96.531% (24374/25250)
+======Batch 150======
+Loss: 0.106 | Acc: 96.336% (36367/37750)
+EPOCH 59 TOTAL: Loss: 0.111 | Acc: 96.170% (48085/50000)
+Accuracy of class plane is 96.5 %
+Accuracy of class car   is 98.0 %
+Accuracy of class bird  is 94.5 %
+Accuracy of class cat   is 93.1 %
+Accuracy of class deer  is 95.9 %
+Accuracy of class dog   is 94.2 %
+Accuracy of class frog  is 97.1 %
+Accuracy of class horse is 97.1 %
+Accuracy of class ship  is 97.8 %
+Accuracy of class truck is 97.4 %
+Train Time Spent: 30.999707221984863
+
+======Training in Epoch: 60======
+======Batch 0======
+Loss: 0.070 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.092 | Acc: 96.792% (12341/12750)
+======Batch 100======
+Loss: 0.096 | Acc: 96.610% (24394/25250)
+======Batch 150======
+Loss: 0.104 | Acc: 96.328% (36364/37750)
+EPOCH 60 TOTAL: Loss: 0.107 | Acc: 96.238% (48119/50000)
+Accuracy of class plane is 97.0 %
+Accuracy of class car   is 98.1 %
+Accuracy of class bird  is 95.3 %
+Accuracy of class cat   is 93.1 %
+Accuracy of class deer  is 95.6 %
+Accuracy of class dog   is 93.8 %
+Accuracy of class frog  is 97.0 %
+Accuracy of class horse is 96.8 %
+Accuracy of class ship  is 97.9 %
+Accuracy of class truck is 97.8 %
+Train Time Spent: 30.62115502357483
+
+======Testing in Epoch: 60======
+Loss: 0.581 | Acc: 84.510% (8451/10000)
+Accuracy of class plane is 85.3 %
+Accuracy of class car   is 94.4 %
+Accuracy of class bird  is 86.3 %
+Accuracy of class cat   is 70.0 %
+Accuracy of class deer  is 80.4 %
+Accuracy of class dog   is 80.9 %
+Accuracy of class frog  is 89.8 %
+Accuracy of class horse is 79.6 %
+Accuracy of class ship  is 91.6 %
+Accuracy of class truck is 86.8 %
+Test Time Spent: 7.234893083572388
+
+======Training in Epoch: 61======
+======Batch 0======
+Loss: 0.096 | Acc: 97.200% (243/250)
+======Batch 50======
+Loss: 0.092 | Acc: 96.675% (12326/12750)
+======Batch 100======
+Loss: 0.096 | Acc: 96.634% (24400/25250)
+======Batch 150======
+Loss: 0.105 | Acc: 96.286% (36348/37750)
+EPOCH 61 TOTAL: Loss: 0.110 | Acc: 96.118% (48059/50000)
+Accuracy of class plane is 96.3 %
+Accuracy of class car   is 98.0 %
+Accuracy of class bird  is 94.7 %
+Accuracy of class cat   is 93.1 %
+Accuracy of class deer  is 95.8 %
+Accuracy of class dog   is 93.9 %
+Accuracy of class frog  is 97.4 %
+Accuracy of class horse is 96.7 %
+Accuracy of class ship  is 97.8 %
+Accuracy of class truck is 97.5 %
+Train Time Spent: 30.537809133529663
+
+======Training in Epoch: 62======
+======Batch 0======
+Loss: 0.062 | Acc: 97.200% (243/250)
+======Batch 50======
+Loss: 0.095 | Acc: 96.667% (12325/12750)
+======Batch 100======
+Loss: 0.100 | Acc: 96.519% (24371/25250)
+======Batch 150======
+Loss: 0.107 | Acc: 96.244% (36332/37750)
+EPOCH 62 TOTAL: Loss: 0.109 | Acc: 96.138% (48069/50000)
+Accuracy of class plane is 96.6 %
+Accuracy of class car   is 98.0 %
+Accuracy of class bird  is 95.1 %
+Accuracy of class cat   is 92.9 %
+Accuracy of class deer  is 95.7 %
+Accuracy of class dog   is 93.9 %
+Accuracy of class frog  is 97.2 %
+Accuracy of class horse is 96.8 %
+Accuracy of class ship  is 97.5 %
+Accuracy of class truck is 97.6 %
+Train Time Spent: 31.46144676208496
+
+======Training in Epoch: 63======
+======Batch 0======
+Loss: 0.075 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.088 | Acc: 96.973% (12364/12750)
+======Batch 100======
+Loss: 0.095 | Acc: 96.737% (24426/25250)
+======Batch 150======
+Loss: 0.098 | Acc: 96.551% (36448/37750)
+EPOCH 63 TOTAL: Loss: 0.104 | Acc: 96.338% (48169/50000)
+Accuracy of class plane is 96.8 %
+Accuracy of class car   is 98.3 %
+Accuracy of class bird  is 95.1 %
+Accuracy of class cat   is 93.2 %
+Accuracy of class deer  is 96.2 %
+Accuracy of class dog   is 94.4 %
+Accuracy of class frog  is 97.4 %
+Accuracy of class horse is 97.1 %
+Accuracy of class ship  is 97.5 %
+Accuracy of class truck is 97.4 %
+Train Time Spent: 30.73294234275818
+
+======Training in Epoch: 64======
+======Batch 0======
+Loss: 0.045 | Acc: 98.800% (247/250)
+======Batch 50======
+Loss: 0.089 | Acc: 96.933% (12359/12750)
+======Batch 100======
+Loss: 0.095 | Acc: 96.665% (24408/25250)
+======Batch 150======
+Loss: 0.097 | Acc: 96.540% (36444/37750)
+EPOCH 64 TOTAL: Loss: 0.106 | Acc: 96.270% (48135/50000)
+Accuracy of class plane is 96.2 %
+Accuracy of class car   is 97.8 %
+Accuracy of class bird  is 95.2 %
+Accuracy of class cat   is 93.4 %
+Accuracy of class deer  is 96.2 %
+Accuracy of class dog   is 94.5 %
+Accuracy of class frog  is 96.9 %
+Accuracy of class horse is 97.5 %
+Accuracy of class ship  is 97.6 %
+Accuracy of class truck is 97.5 %
+Train Time Spent: 29.806854248046875
+
+======Training in Epoch: 65======
+======Batch 0======
+Loss: 0.102 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.083 | Acc: 97.325% (12409/12750)
+======Batch 100======
+Loss: 0.092 | Acc: 96.927% (24474/25250)
+======Batch 150======
+Loss: 0.095 | Acc: 96.800% (36542/37750)
+EPOCH 65 TOTAL: Loss: 0.101 | Acc: 96.562% (48281/50000)
+Accuracy of class plane is 96.8 %
+Accuracy of class car   is 98.0 %
+Accuracy of class bird  is 95.4 %
+Accuracy of class cat   is 93.9 %
+Accuracy of class deer  is 96.5 %
+Accuracy of class dog   is 94.6 %
+Accuracy of class frog  is 97.2 %
+Accuracy of class horse is 97.5 %
+Accuracy of class ship  is 97.8 %
+Accuracy of class truck is 97.8 %
+Train Time Spent: 30.751999616622925
+
+======Training in Epoch: 66======
+======Batch 0======
+Loss: 0.053 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.094 | Acc: 96.761% (12337/12750)
+======Batch 100======
+Loss: 0.097 | Acc: 96.578% (24386/25250)
+======Batch 150======
+Loss: 0.099 | Acc: 96.514% (36434/37750)
+EPOCH 66 TOTAL: Loss: 0.103 | Acc: 96.378% (48189/50000)
+Accuracy of class plane is 96.9 %
+Accuracy of class car   is 98.1 %
+Accuracy of class bird  is 95.1 %
+Accuracy of class cat   is 93.6 %
+Accuracy of class deer  is 96.3 %
+Accuracy of class dog   is 94.3 %
+Accuracy of class frog  is 97.3 %
+Accuracy of class horse is 97.1 %
+Accuracy of class ship  is 97.6 %
+Accuracy of class truck is 97.6 %
+Train Time Spent: 30.165072441101074
+
+======Training in Epoch: 67======
+======Batch 0======
+Loss: 0.072 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.074 | Acc: 97.459% (12426/12750)
+======Batch 100======
+Loss: 0.089 | Acc: 96.947% (24479/25250)
+======Batch 150======
+Loss: 0.097 | Acc: 96.660% (36489/37750)
+EPOCH 67 TOTAL: Loss: 0.103 | Acc: 96.456% (48228/50000)
+Accuracy of class plane is 96.6 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 94.9 %
+Accuracy of class cat   is 93.4 %
+Accuracy of class deer  is 96.3 %
+Accuracy of class dog   is 94.8 %
+Accuracy of class frog  is 96.9 %
+Accuracy of class horse is 97.5 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 97.6 %
+Train Time Spent: 30.818185091018677
+
+======Training in Epoch: 68======
+======Batch 0======
+Loss: 0.097 | Acc: 96.000% (240/250)
+======Batch 50======
+Loss: 0.097 | Acc: 96.651% (12323/12750)
+======Batch 100======
+Loss: 0.095 | Acc: 96.661% (24407/25250)
+======Batch 150======
+Loss: 0.102 | Acc: 96.411% (36395/37750)
+EPOCH 68 TOTAL: Loss: 0.104 | Acc: 96.324% (48162/50000)
+Accuracy of class plane is 96.8 %
+Accuracy of class car   is 98.2 %
+Accuracy of class bird  is 95.3 %
+Accuracy of class cat   is 92.9 %
+Accuracy of class deer  is 96.3 %
+Accuracy of class dog   is 94.1 %
+Accuracy of class frog  is 97.0 %
+Accuracy of class horse is 97.0 %
+Accuracy of class ship  is 97.8 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 30.216580390930176
+
+======Training in Epoch: 69======
+======Batch 0======
+Loss: 0.056 | Acc: 98.400% (246/250)
+======Batch 50======
+Loss: 0.090 | Acc: 96.753% (12336/12750)
+======Batch 100======
+Loss: 0.093 | Acc: 96.661% (24407/25250)
+======Batch 150======
+Loss: 0.098 | Acc: 96.551% (36448/37750)
+EPOCH 69 TOTAL: Loss: 0.101 | Acc: 96.420% (48210/50000)
+Accuracy of class plane is 97.0 %
+Accuracy of class car   is 98.0 %
+Accuracy of class bird  is 94.9 %
+Accuracy of class cat   is 93.8 %
+Accuracy of class deer  is 96.3 %
+Accuracy of class dog   is 94.2 %
+Accuracy of class frog  is 97.2 %
+Accuracy of class horse is 97.3 %
+Accuracy of class ship  is 97.9 %
+Accuracy of class truck is 97.7 %
+Train Time Spent: 30.41470718383789
+
+======Training in Epoch: 70======
+======Batch 0======
+Loss: 0.074 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.076 | Acc: 97.231% (12397/12750)
+======Batch 100======
+Loss: 0.087 | Acc: 96.915% (24471/25250)
+======Batch 150======
+Loss: 0.088 | Acc: 96.887% (36575/37750)
+EPOCH 70 TOTAL: Loss: 0.095 | Acc: 96.670% (48335/50000)
+Accuracy of class plane is 97.2 %
+Accuracy of class car   is 98.2 %
+Accuracy of class bird  is 95.8 %
+Accuracy of class cat   is 93.6 %
+Accuracy of class deer  is 96.3 %
+Accuracy of class dog   is 94.9 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.4 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 97.7 %
+Train Time Spent: 30.772703170776367
+
+======Testing in Epoch: 70======
+Loss: 0.635 | Acc: 83.950% (8395/10000)
+Accuracy of class plane is 92.8 %
+Accuracy of class car   is 93.9 %
+Accuracy of class bird  is 82.4 %
+Accuracy of class cat   is 72.2 %
+Accuracy of class deer  is 85.5 %
+Accuracy of class dog   is 63.7 %
+Accuracy of class frog  is 87.8 %
+Accuracy of class horse is 89.3 %
+Accuracy of class ship  is 90.3 %
+Accuracy of class truck is 81.6 %
+Test Time Spent: 7.248763084411621
+
+======Training in Epoch: 71======
+======Batch 0======
+Loss: 0.106 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.085 | Acc: 97.075% (12377/12750)
+======Batch 100======
+Loss: 0.096 | Acc: 96.650% (24404/25250)
+======Batch 150======
+Loss: 0.099 | Acc: 96.556% (36450/37750)
+EPOCH 71 TOTAL: Loss: 0.101 | Acc: 96.490% (48245/50000)
+Accuracy of class plane is 96.8 %
+Accuracy of class car   is 98.3 %
+Accuracy of class bird  is 95.3 %
+Accuracy of class cat   is 93.4 %
+Accuracy of class deer  is 96.3 %
+Accuracy of class dog   is 94.2 %
+Accuracy of class frog  is 97.1 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 30.550583124160767
+
+======Training in Epoch: 72======
+======Batch 0======
+Loss: 0.067 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.079 | Acc: 97.278% (12403/12750)
+======Batch 100======
+Loss: 0.086 | Acc: 96.958% (24482/25250)
+======Batch 150======
+Loss: 0.091 | Acc: 96.856% (36563/37750)
+EPOCH 72 TOTAL: Loss: 0.095 | Acc: 96.690% (48345/50000)
+Accuracy of class plane is 96.7 %
+Accuracy of class car   is 98.2 %
+Accuracy of class bird  is 95.6 %
+Accuracy of class cat   is 94.2 %
+Accuracy of class deer  is 96.4 %
+Accuracy of class dog   is 95.1 %
+Accuracy of class frog  is 97.3 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 97.5 %
+Train Time Spent: 30.642982959747314
+
+======Training in Epoch: 73======
+======Batch 0======
+Loss: 0.081 | Acc: 97.200% (243/250)
+======Batch 50======
+Loss: 0.094 | Acc: 96.682% (12327/12750)
+======Batch 100======
+Loss: 0.097 | Acc: 96.602% (24392/25250)
+======Batch 150======
+Loss: 0.097 | Acc: 96.601% (36467/37750)
+EPOCH 73 TOTAL: Loss: 0.102 | Acc: 96.466% (48233/50000)
+Accuracy of class plane is 96.8 %
+Accuracy of class car   is 98.0 %
+Accuracy of class bird  is 94.9 %
+Accuracy of class cat   is 93.9 %
+Accuracy of class deer  is 96.4 %
+Accuracy of class dog   is 94.4 %
+Accuracy of class frog  is 97.2 %
+Accuracy of class horse is 97.1 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 97.7 %
+Train Time Spent: 30.184481382369995
+
+======Training in Epoch: 74======
+======Batch 0======
+Loss: 0.146 | Acc: 94.800% (237/250)
+======Batch 50======
+Loss: 0.091 | Acc: 96.925% (12358/12750)
+======Batch 100======
+Loss: 0.095 | Acc: 96.752% (24430/25250)
+======Batch 150======
+Loss: 0.096 | Acc: 96.683% (36498/37750)
+EPOCH 74 TOTAL: Loss: 0.099 | Acc: 96.596% (48298/50000)
+Accuracy of class plane is 96.9 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 95.3 %
+Accuracy of class cat   is 93.6 %
+Accuracy of class deer  is 96.3 %
+Accuracy of class dog   is 94.7 %
+Accuracy of class frog  is 97.2 %
+Accuracy of class horse is 97.2 %
+Accuracy of class ship  is 98.3 %
+Accuracy of class truck is 98.0 %
+Train Time Spent: 30.480087995529175
+
+======Training in Epoch: 75======
+======Batch 0======
+Loss: 0.105 | Acc: 97.200% (243/250)
+======Batch 50======
+Loss: 0.074 | Acc: 97.545% (12437/12750)
+======Batch 100======
+Loss: 0.086 | Acc: 97.085% (24514/25250)
+======Batch 150======
+Loss: 0.090 | Acc: 96.962% (36603/37750)
+EPOCH 75 TOTAL: Loss: 0.094 | Acc: 96.766% (48383/50000)
+Accuracy of class plane is 96.9 %
+Accuracy of class car   is 98.2 %
+Accuracy of class bird  is 96.0 %
+Accuracy of class cat   is 93.9 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 94.8 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 97.8 %
+Accuracy of class truck is 98.0 %
+Train Time Spent: 30.61649489402771
+
+======Training in Epoch: 76======
+======Batch 0======
+Loss: 0.033 | Acc: 99.200% (248/250)
+======Batch 50======
+Loss: 0.090 | Acc: 97.027% (12371/12750)
+======Batch 100======
+Loss: 0.088 | Acc: 97.069% (24510/25250)
+======Batch 150======
+Loss: 0.094 | Acc: 96.789% (36538/37750)
+EPOCH 76 TOTAL: Loss: 0.099 | Acc: 96.574% (48287/50000)
+Accuracy of class plane is 96.8 %
+Accuracy of class car   is 98.0 %
+Accuracy of class bird  is 95.5 %
+Accuracy of class cat   is 94.0 %
+Accuracy of class deer  is 96.2 %
+Accuracy of class dog   is 94.7 %
+Accuracy of class frog  is 97.1 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.0 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 30.14839458465576
+
+======Training in Epoch: 77======
+======Batch 0======
+Loss: 0.100 | Acc: 96.400% (241/250)
+======Batch 50======
+Loss: 0.087 | Acc: 97.027% (12371/12750)
+======Batch 100======
+Loss: 0.090 | Acc: 96.915% (24471/25250)
+======Batch 150======
+Loss: 0.095 | Acc: 96.654% (36487/37750)
+EPOCH 77 TOTAL: Loss: 0.100 | Acc: 96.516% (48258/50000)
+Accuracy of class plane is 96.9 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 95.5 %
+Accuracy of class cat   is 93.5 %
+Accuracy of class deer  is 96.3 %
+Accuracy of class dog   is 94.7 %
+Accuracy of class frog  is 97.4 %
+Accuracy of class horse is 97.3 %
+Accuracy of class ship  is 97.7 %
+Accuracy of class truck is 97.5 %
+Train Time Spent: 29.93842577934265
+
+======Training in Epoch: 78======
+======Batch 0======
+Loss: 0.150 | Acc: 95.200% (238/250)
+======Batch 50======
+Loss: 0.092 | Acc: 96.878% (12352/12750)
+======Batch 100======
+Loss: 0.091 | Acc: 96.919% (24472/25250)
+======Batch 150======
+Loss: 0.091 | Acc: 96.861% (36565/37750)
+EPOCH 78 TOTAL: Loss: 0.094 | Acc: 96.776% (48388/50000)
+Accuracy of class plane is 97.2 %
+Accuracy of class car   is 98.5 %
+Accuracy of class bird  is 95.5 %
+Accuracy of class cat   is 94.3 %
+Accuracy of class deer  is 96.7 %
+Accuracy of class dog   is 94.9 %
+Accuracy of class frog  is 97.3 %
+Accuracy of class horse is 97.4 %
+Accuracy of class ship  is 98.0 %
+Accuracy of class truck is 97.8 %
+Train Time Spent: 30.868706226348877
+
+======Training in Epoch: 79======
+======Batch 0======
+Loss: 0.054 | Acc: 99.200% (248/250)
+======Batch 50======
+Loss: 0.081 | Acc: 97.176% (12390/12750)
+======Batch 100======
+Loss: 0.090 | Acc: 96.701% (24417/25250)
+======Batch 150======
+Loss: 0.097 | Acc: 96.517% (36435/37750)
+EPOCH 79 TOTAL: Loss: 0.102 | Acc: 96.324% (48162/50000)
+Accuracy of class plane is 96.6 %
+Accuracy of class car   is 98.2 %
+Accuracy of class bird  is 95.0 %
+Accuracy of class cat   is 93.4 %
+Accuracy of class deer  is 95.9 %
+Accuracy of class dog   is 94.7 %
+Accuracy of class frog  is 97.1 %
+Accuracy of class horse is 97.0 %
+Accuracy of class ship  is 97.9 %
+Accuracy of class truck is 97.4 %
+Train Time Spent: 30.30147409439087
+
+======Training in Epoch: 80======
+======Batch 0======
+Loss: 0.091 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.086 | Acc: 96.941% (12360/12750)
+======Batch 100======
+Loss: 0.084 | Acc: 97.077% (24512/25250)
+======Batch 150======
+Loss: 0.087 | Acc: 96.956% (36601/37750)
+EPOCH 80 TOTAL: Loss: 0.088 | Acc: 96.926% (48463/50000)
+Accuracy of class plane is 96.8 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 95.8 %
+Accuracy of class cat   is 94.6 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 95.3 %
+Accuracy of class frog  is 97.9 %
+Accuracy of class horse is 97.4 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 30.480490922927856
+
+======Testing in Epoch: 80======
+Loss: 0.567 | Acc: 85.280% (8528/10000)
+Accuracy of class plane is 88.6 %
+Accuracy of class car   is 94.9 %
+Accuracy of class bird  is 78.8 %
+Accuracy of class cat   is 78.3 %
+Accuracy of class deer  is 79.7 %
+Accuracy of class dog   is 73.5 %
+Accuracy of class frog  is 90.3 %
+Accuracy of class horse is 92.0 %
+Accuracy of class ship  is 88.2 %
+Accuracy of class truck is 88.5 %
+Test Time Spent: 6.493344783782959
+
+======Training in Epoch: 81======
+======Batch 0======
+Loss: 0.111 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.078 | Acc: 97.325% (12409/12750)
+======Batch 100======
+Loss: 0.089 | Acc: 96.966% (24484/25250)
+======Batch 150======
+Loss: 0.093 | Acc: 96.758% (36526/37750)
+EPOCH 81 TOTAL: Loss: 0.095 | Acc: 96.702% (48351/50000)
+Accuracy of class plane is 96.7 %
+Accuracy of class car   is 98.0 %
+Accuracy of class bird  is 95.6 %
+Accuracy of class cat   is 94.3 %
+Accuracy of class deer  is 96.7 %
+Accuracy of class dog   is 95.0 %
+Accuracy of class frog  is 97.4 %
+Accuracy of class horse is 97.5 %
+Accuracy of class ship  is 97.9 %
+Accuracy of class truck is 98.0 %
+Train Time Spent: 30.560527563095093
+
+======Training in Epoch: 82======
+======Batch 0======
+Loss: 0.058 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.071 | Acc: 97.443% (12424/12750)
+======Batch 100======
+Loss: 0.080 | Acc: 97.149% (24530/25250)
+======Batch 150======
+Loss: 0.088 | Acc: 96.837% (36556/37750)
+EPOCH 82 TOTAL: Loss: 0.093 | Acc: 96.674% (48337/50000)
+Accuracy of class plane is 96.8 %
+Accuracy of class car   is 98.2 %
+Accuracy of class bird  is 95.7 %
+Accuracy of class cat   is 94.1 %
+Accuracy of class deer  is 96.4 %
+Accuracy of class dog   is 95.1 %
+Accuracy of class frog  is 97.4 %
+Accuracy of class horse is 97.4 %
+Accuracy of class ship  is 98.0 %
+Accuracy of class truck is 97.6 %
+Train Time Spent: 30.36976957321167
+
+======Training in Epoch: 83======
+======Batch 0======
+Loss: 0.053 | Acc: 98.400% (246/250)
+======Batch 50======
+Loss: 0.075 | Acc: 97.443% (12424/12750)
+======Batch 100======
+Loss: 0.083 | Acc: 97.172% (24536/25250)
+======Batch 150======
+Loss: 0.093 | Acc: 96.795% (36540/37750)
+EPOCH 83 TOTAL: Loss: 0.096 | Acc: 96.682% (48341/50000)
+Accuracy of class plane is 97.1 %
+Accuracy of class car   is 98.3 %
+Accuracy of class bird  is 95.7 %
+Accuracy of class cat   is 94.2 %
+Accuracy of class deer  is 96.3 %
+Accuracy of class dog   is 95.3 %
+Accuracy of class frog  is 97.2 %
+Accuracy of class horse is 97.1 %
+Accuracy of class ship  is 98.0 %
+Accuracy of class truck is 97.7 %
+Train Time Spent: 30.089679479599
+
+======Training in Epoch: 84======
+======Batch 0======
+Loss: 0.054 | Acc: 98.400% (246/250)
+======Batch 50======
+Loss: 0.069 | Acc: 97.639% (12449/12750)
+======Batch 100======
+Loss: 0.078 | Acc: 97.343% (24579/25250)
+======Batch 150======
+Loss: 0.084 | Acc: 97.118% (36662/37750)
+EPOCH 84 TOTAL: Loss: 0.090 | Acc: 96.940% (48470/50000)
+Accuracy of class plane is 97.1 %
+Accuracy of class car   is 98.5 %
+Accuracy of class bird  is 96.1 %
+Accuracy of class cat   is 94.0 %
+Accuracy of class deer  is 96.7 %
+Accuracy of class dog   is 95.6 %
+Accuracy of class frog  is 97.3 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.713797092437744
+
+======Training in Epoch: 85======
+======Batch 0======
+Loss: 0.092 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.083 | Acc: 97.176% (12390/12750)
+======Batch 100======
+Loss: 0.081 | Acc: 97.244% (24554/25250)
+======Batch 150======
+Loss: 0.085 | Acc: 97.113% (36660/37750)
+EPOCH 85 TOTAL: Loss: 0.089 | Acc: 96.926% (48463/50000)
+Accuracy of class plane is 97.2 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 96.0 %
+Accuracy of class cat   is 94.2 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 94.9 %
+Accuracy of class frog  is 97.7 %
+Accuracy of class horse is 97.3 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 98.1 %
+Train Time Spent: 32.4231641292572
+
+======Training in Epoch: 86======
+======Batch 0======
+Loss: 0.087 | Acc: 96.400% (241/250)
+======Batch 50======
+Loss: 0.092 | Acc: 96.933% (12359/12750)
+======Batch 100======
+Loss: 0.090 | Acc: 96.867% (24459/25250)
+======Batch 150======
+Loss: 0.097 | Acc: 96.630% (36478/37750)
+EPOCH 86 TOTAL: Loss: 0.100 | Acc: 96.516% (48258/50000)
+Accuracy of class plane is 97.0 %
+Accuracy of class car   is 98.3 %
+Accuracy of class bird  is 95.3 %
+Accuracy of class cat   is 93.5 %
+Accuracy of class deer  is 96.1 %
+Accuracy of class dog   is 94.8 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.2 %
+Accuracy of class ship  is 97.9 %
+Accuracy of class truck is 97.6 %
+Train Time Spent: 30.168583393096924
+
+======Training in Epoch: 87======
+======Batch 0======
+Loss: 0.116 | Acc: 95.600% (239/250)
+======Batch 50======
+Loss: 0.080 | Acc: 97.278% (12403/12750)
+======Batch 100======
+Loss: 0.086 | Acc: 97.050% (24505/25250)
+======Batch 150======
+Loss: 0.087 | Acc: 96.948% (36598/37750)
+EPOCH 87 TOTAL: Loss: 0.093 | Acc: 96.778% (48389/50000)
+Accuracy of class plane is 97.0 %
+Accuracy of class car   is 98.3 %
+Accuracy of class bird  is 95.7 %
+Accuracy of class cat   is 94.6 %
+Accuracy of class deer  is 96.5 %
+Accuracy of class dog   is 95.2 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.4 %
+Accuracy of class ship  is 97.8 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 30.739413738250732
+
+======Training in Epoch: 88======
+======Batch 0======
+Loss: 0.112 | Acc: 96.400% (241/250)
+======Batch 50======
+Loss: 0.081 | Acc: 97.114% (12382/12750)
+======Batch 100======
+Loss: 0.086 | Acc: 96.915% (24471/25250)
+======Batch 150======
+Loss: 0.090 | Acc: 96.758% (36526/37750)
+EPOCH 88 TOTAL: Loss: 0.091 | Acc: 96.770% (48385/50000)
+Accuracy of class plane is 97.1 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 95.2 %
+Accuracy of class cat   is 94.2 %
+Accuracy of class deer  is 96.6 %
+Accuracy of class dog   is 94.6 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 98.0 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.23669695854187
+
+======Training in Epoch: 89======
+======Batch 0======
+Loss: 0.135 | Acc: 95.600% (239/250)
+======Batch 50======
+Loss: 0.080 | Acc: 97.161% (12388/12750)
+======Batch 100======
+Loss: 0.080 | Acc: 97.248% (24555/25250)
+======Batch 150======
+Loss: 0.087 | Acc: 96.967% (36605/37750)
+EPOCH 89 TOTAL: Loss: 0.093 | Acc: 96.786% (48393/50000)
+Accuracy of class plane is 96.9 %
+Accuracy of class car   is 98.2 %
+Accuracy of class bird  is 95.6 %
+Accuracy of class cat   is 94.3 %
+Accuracy of class deer  is 96.6 %
+Accuracy of class dog   is 95.2 %
+Accuracy of class frog  is 97.4 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.0 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 31.1828031539917
+
+======Training in Epoch: 90======
+======Batch 0======
+Loss: 0.085 | Acc: 97.200% (243/250)
+======Batch 50======
+Loss: 0.079 | Acc: 97.341% (12411/12750)
+======Batch 100======
+Loss: 0.084 | Acc: 97.172% (24536/25250)
+======Batch 150======
+Loss: 0.085 | Acc: 97.081% (36648/37750)
+EPOCH 90 TOTAL: Loss: 0.090 | Acc: 96.940% (48470/50000)
+Accuracy of class plane is 96.8 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 95.5 %
+Accuracy of class cat   is 94.7 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 95.5 %
+Accuracy of class frog  is 97.7 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 98.0 %
+Train Time Spent: 30.449926614761353
+
+======Testing in Epoch: 90======
+Loss: 0.615 | Acc: 84.430% (8443/10000)
+Accuracy of class plane is 79.4 %
+Accuracy of class car   is 92.5 %
+Accuracy of class bird  is 70.9 %
+Accuracy of class cat   is 77.0 %
+Accuracy of class deer  is 86.7 %
+Accuracy of class dog   is 77.2 %
+Accuracy of class frog  is 89.4 %
+Accuracy of class horse is 91.5 %
+Accuracy of class ship  is 88.5 %
+Accuracy of class truck is 91.2 %
+Test Time Spent: 7.391417503356934
+
+======Training in Epoch: 91======
+======Batch 0======
+Loss: 0.080 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.089 | Acc: 97.004% (12368/12750)
+======Batch 100======
+Loss: 0.090 | Acc: 96.954% (24481/25250)
+======Batch 150======
+Loss: 0.091 | Acc: 96.872% (36569/37750)
+EPOCH 91 TOTAL: Loss: 0.094 | Acc: 96.726% (48363/50000)
+Accuracy of class plane is 97.1 %
+Accuracy of class car   is 98.3 %
+Accuracy of class bird  is 95.6 %
+Accuracy of class cat   is 93.7 %
+Accuracy of class deer  is 96.7 %
+Accuracy of class dog   is 94.9 %
+Accuracy of class frog  is 97.4 %
+Accuracy of class horse is 97.2 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 98.1 %
+Train Time Spent: 29.744505167007446
+
+======Training in Epoch: 92======
+======Batch 0======
+Loss: 0.048 | Acc: 98.400% (246/250)
+======Batch 50======
+Loss: 0.075 | Acc: 97.294% (12405/12750)
+======Batch 100======
+Loss: 0.082 | Acc: 97.042% (24503/25250)
+======Batch 150======
+Loss: 0.087 | Acc: 96.914% (36585/37750)
+EPOCH 92 TOTAL: Loss: 0.094 | Acc: 96.654% (48327/50000)
+Accuracy of class plane is 97.2 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 95.3 %
+Accuracy of class cat   is 93.8 %
+Accuracy of class deer  is 96.7 %
+Accuracy of class dog   is 94.8 %
+Accuracy of class frog  is 97.1 %
+Accuracy of class horse is 97.4 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 97.8 %
+Train Time Spent: 30.16315197944641
+
+======Training in Epoch: 93======
+======Batch 0======
+Loss: 0.111 | Acc: 95.600% (239/250)
+======Batch 50======
+Loss: 0.087 | Acc: 96.925% (12358/12750)
+======Batch 100======
+Loss: 0.085 | Acc: 97.089% (24515/25250)
+======Batch 150======
+Loss: 0.088 | Acc: 96.985% (36612/37750)
+EPOCH 93 TOTAL: Loss: 0.089 | Acc: 96.928% (48464/50000)
+Accuracy of class plane is 97.1 %
+Accuracy of class car   is 98.3 %
+Accuracy of class bird  is 96.0 %
+Accuracy of class cat   is 94.3 %
+Accuracy of class deer  is 96.7 %
+Accuracy of class dog   is 95.7 %
+Accuracy of class frog  is 97.3 %
+Accuracy of class horse is 97.5 %
+Accuracy of class ship  is 98.3 %
+Accuracy of class truck is 98.0 %
+Train Time Spent: 30.847814559936523
+
+======Training in Epoch: 94======
+======Batch 0======
+Loss: 0.085 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.080 | Acc: 97.302% (12406/12750)
+======Batch 100======
+Loss: 0.083 | Acc: 97.152% (24531/25250)
+======Batch 150======
+Loss: 0.086 | Acc: 97.038% (36632/37750)
+EPOCH 94 TOTAL: Loss: 0.091 | Acc: 96.842% (48421/50000)
+Accuracy of class plane is 97.0 %
+Accuracy of class car   is 98.3 %
+Accuracy of class bird  is 96.0 %
+Accuracy of class cat   is 94.8 %
+Accuracy of class deer  is 96.4 %
+Accuracy of class dog   is 95.6 %
+Accuracy of class frog  is 97.3 %
+Accuracy of class horse is 97.5 %
+Accuracy of class ship  is 97.8 %
+Accuracy of class truck is 97.7 %
+Train Time Spent: 30.10799479484558
+
+======Training in Epoch: 95======
+======Batch 0======
+Loss: 0.090 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.087 | Acc: 96.933% (12359/12750)
+======Batch 100======
+Loss: 0.087 | Acc: 96.954% (24481/25250)
+======Batch 150======
+Loss: 0.086 | Acc: 97.025% (36627/37750)
+EPOCH 95 TOTAL: Loss: 0.088 | Acc: 96.974% (48487/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 96.2 %
+Accuracy of class cat   is 94.2 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 95.4 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.5 %
+Accuracy of class ship  is 98.3 %
+Accuracy of class truck is 98.0 %
+Train Time Spent: 30.17124843597412
+
+======Training in Epoch: 96======
+======Batch 0======
+Loss: 0.049 | Acc: 98.800% (247/250)
+======Batch 50======
+Loss: 0.067 | Acc: 97.820% (12472/12750)
+======Batch 100======
+Loss: 0.076 | Acc: 97.442% (24604/25250)
+======Batch 150======
+Loss: 0.084 | Acc: 97.166% (36680/37750)
+EPOCH 96 TOTAL: Loss: 0.091 | Acc: 96.870% (48435/50000)
+Accuracy of class plane is 96.5 %
+Accuracy of class car   is 98.2 %
+Accuracy of class bird  is 95.9 %
+Accuracy of class cat   is 94.6 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 95.4 %
+Accuracy of class frog  is 97.9 %
+Accuracy of class horse is 97.3 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 30.27648091316223
+
+======Training in Epoch: 97======
+======Batch 0======
+Loss: 0.083 | Acc: 97.200% (243/250)
+======Batch 50======
+Loss: 0.073 | Acc: 97.576% (12441/12750)
+======Batch 100======
+Loss: 0.077 | Acc: 97.323% (24574/25250)
+======Batch 150======
+Loss: 0.082 | Acc: 97.105% (36657/37750)
+EPOCH 97 TOTAL: Loss: 0.091 | Acc: 96.772% (48386/50000)
+Accuracy of class plane is 96.7 %
+Accuracy of class car   is 98.3 %
+Accuracy of class bird  is 95.6 %
+Accuracy of class cat   is 94.2 %
+Accuracy of class deer  is 96.6 %
+Accuracy of class dog   is 95.2 %
+Accuracy of class frog  is 97.6 %
+Accuracy of class horse is 97.5 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 31.07806396484375
+
+======Training in Epoch: 98======
+======Batch 0======
+Loss: 0.102 | Acc: 96.000% (240/250)
+======Batch 50======
+Loss: 0.081 | Acc: 97.161% (12388/12750)
+======Batch 100======
+Loss: 0.085 | Acc: 97.034% (24501/25250)
+======Batch 150======
+Loss: 0.089 | Acc: 96.925% (36589/37750)
+EPOCH 98 TOTAL: Loss: 0.092 | Acc: 96.790% (48395/50000)
+Accuracy of class plane is 97.1 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 95.7 %
+Accuracy of class cat   is 94.0 %
+Accuracy of class deer  is 96.4 %
+Accuracy of class dog   is 95.1 %
+Accuracy of class frog  is 97.3 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.0 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.844868421554565
+
+======Training in Epoch: 99======
+======Batch 0======
+Loss: 0.077 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.077 | Acc: 97.333% (12410/12750)
+======Batch 100======
+Loss: 0.082 | Acc: 97.216% (24547/25250)
+======Batch 150======
+Loss: 0.084 | Acc: 97.134% (36668/37750)
+EPOCH 99 TOTAL: Loss: 0.088 | Acc: 96.960% (48480/50000)
+Accuracy of class plane is 97.1 %
+Accuracy of class car   is 98.2 %
+Accuracy of class bird  is 95.9 %
+Accuracy of class cat   is 94.6 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 95.8 %
+Accuracy of class frog  is 97.6 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 97.9 %
+Accuracy of class truck is 98.0 %
+Train Time Spent: 31.358917474746704
+
+======Training in Epoch: 100======
+======Batch 0======
+Loss: 0.105 | Acc: 95.200% (238/250)
+======Batch 50======
+Loss: 0.096 | Acc: 96.784% (12340/12750)
+======Batch 100======
+Loss: 0.096 | Acc: 96.713% (24420/25250)
+======Batch 150======
+Loss: 0.094 | Acc: 96.763% (36528/37750)
+EPOCH 100 TOTAL: Loss: 0.097 | Acc: 96.708% (48354/50000)
+Accuracy of class plane is 96.8 %
+Accuracy of class car   is 98.3 %
+Accuracy of class bird  is 95.3 %
+Accuracy of class cat   is 94.3 %
+Accuracy of class deer  is 96.3 %
+Accuracy of class dog   is 95.0 %
+Accuracy of class frog  is 97.4 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 97.9 %
+Accuracy of class truck is 98.0 %
+Train Time Spent: 30.41241979598999
+
+======Testing in Epoch: 100======
+Loss: 0.612 | Acc: 84.210% (8421/10000)
+Accuracy of class plane is 78.8 %
+Accuracy of class car   is 92.0 %
+Accuracy of class bird  is 80.5 %
+Accuracy of class cat   is 77.2 %
+Accuracy of class deer  is 80.4 %
+Accuracy of class dog   is 76.6 %
+Accuracy of class frog  is 87.2 %
+Accuracy of class horse is 82.9 %
+Accuracy of class ship  is 93.1 %
+Accuracy of class truck is 93.4 %
+Test Time Spent: 7.395852565765381
+
+======Training in Epoch: 101======
+======Batch 0======
+Loss: 0.104 | Acc: 96.000% (240/250)
+======Batch 50======
+Loss: 0.082 | Acc: 97.176% (12390/12750)
+======Batch 100======
+Loss: 0.080 | Acc: 97.248% (24555/25250)
+======Batch 150======
+Loss: 0.086 | Acc: 97.025% (36627/37750)
+EPOCH 101 TOTAL: Loss: 0.090 | Acc: 96.870% (48435/50000)
+Accuracy of class plane is 97.1 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 95.7 %
+Accuracy of class cat   is 94.4 %
+Accuracy of class deer  is 96.5 %
+Accuracy of class dog   is 95.4 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.2 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 98.0 %
+Train Time Spent: 30.672797918319702
+
+======Training in Epoch: 102======
+======Batch 0======
+Loss: 0.094 | Acc: 96.400% (241/250)
+======Batch 50======
+Loss: 0.071 | Acc: 97.459% (12426/12750)
+======Batch 100======
+Loss: 0.074 | Acc: 97.287% (24565/25250)
+======Batch 150======
+Loss: 0.079 | Acc: 97.192% (36690/37750)
+EPOCH 102 TOTAL: Loss: 0.084 | Acc: 97.012% (48506/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.5 %
+Accuracy of class bird  is 96.3 %
+Accuracy of class cat   is 94.2 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 95.4 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 98.1 %
+Train Time Spent: 30.271020650863647
+
+======Training in Epoch: 103======
+======Batch 0======
+Loss: 0.080 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.081 | Acc: 97.231% (12397/12750)
+======Batch 100======
+Loss: 0.083 | Acc: 97.141% (24528/25250)
+======Batch 150======
+Loss: 0.084 | Acc: 97.097% (36654/37750)
+EPOCH 103 TOTAL: Loss: 0.088 | Acc: 96.976% (48488/50000)
+Accuracy of class plane is 97.1 %
+Accuracy of class car   is 98.1 %
+Accuracy of class bird  is 95.8 %
+Accuracy of class cat   is 94.7 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 95.6 %
+Accuracy of class frog  is 97.7 %
+Accuracy of class horse is 97.9 %
+Accuracy of class ship  is 98.0 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 30.34657120704651
+
+======Training in Epoch: 104======
+======Batch 0======
+Loss: 0.071 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.073 | Acc: 97.475% (12428/12750)
+======Batch 100======
+Loss: 0.081 | Acc: 97.251% (24556/25250)
+======Batch 150======
+Loss: 0.082 | Acc: 97.176% (36684/37750)
+EPOCH 104 TOTAL: Loss: 0.086 | Acc: 97.030% (48515/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.5 %
+Accuracy of class bird  is 95.8 %
+Accuracy of class cat   is 94.7 %
+Accuracy of class deer  is 97.0 %
+Accuracy of class dog   is 95.4 %
+Accuracy of class frog  is 97.7 %
+Accuracy of class horse is 97.5 %
+Accuracy of class ship  is 98.3 %
+Accuracy of class truck is 98.0 %
+Train Time Spent: 30.700011014938354
+
+======Training in Epoch: 105======
+======Batch 0======
+Loss: 0.099 | Acc: 96.400% (241/250)
+======Batch 50======
+Loss: 0.083 | Acc: 97.129% (12384/12750)
+======Batch 100======
+Loss: 0.082 | Acc: 97.224% (24549/25250)
+======Batch 150======
+Loss: 0.089 | Acc: 97.007% (36620/37750)
+EPOCH 105 TOTAL: Loss: 0.092 | Acc: 96.884% (48442/50000)
+Accuracy of class plane is 97.2 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 95.6 %
+Accuracy of class cat   is 94.2 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 95.2 %
+Accuracy of class frog  is 97.4 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.66390323638916
+
+======Training in Epoch: 106======
+======Batch 0======
+Loss: 0.104 | Acc: 96.400% (241/250)
+======Batch 50======
+Loss: 0.079 | Acc: 97.271% (12402/12750)
+======Batch 100======
+Loss: 0.080 | Acc: 97.216% (24547/25250)
+======Batch 150======
+Loss: 0.084 | Acc: 97.115% (36661/37750)
+EPOCH 106 TOTAL: Loss: 0.088 | Acc: 97.000% (48500/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.5 %
+Accuracy of class bird  is 96.1 %
+Accuracy of class cat   is 94.8 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 95.7 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.5 %
+Accuracy of class ship  is 97.9 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 30.602832078933716
+
+======Training in Epoch: 107======
+======Batch 0======
+Loss: 0.147 | Acc: 95.600% (239/250)
+======Batch 50======
+Loss: 0.076 | Acc: 97.467% (12427/12750)
+======Batch 100======
+Loss: 0.080 | Acc: 97.307% (24570/25250)
+======Batch 150======
+Loss: 0.080 | Acc: 97.319% (36738/37750)
+EPOCH 107 TOTAL: Loss: 0.086 | Acc: 97.060% (48530/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 96.2 %
+Accuracy of class cat   is 94.9 %
+Accuracy of class deer  is 96.6 %
+Accuracy of class dog   is 95.7 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.5942599773407
+
+======Training in Epoch: 108======
+======Batch 0======
+Loss: 0.060 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.075 | Acc: 97.522% (12434/12750)
+======Batch 100======
+Loss: 0.077 | Acc: 97.418% (24598/25250)
+======Batch 150======
+Loss: 0.081 | Acc: 97.224% (36702/37750)
+EPOCH 108 TOTAL: Loss: 0.087 | Acc: 97.008% (48504/50000)
+Accuracy of class plane is 97.1 %
+Accuracy of class car   is 98.1 %
+Accuracy of class bird  is 95.7 %
+Accuracy of class cat   is 94.9 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 95.5 %
+Accuracy of class frog  is 98.0 %
+Accuracy of class horse is 97.9 %
+Accuracy of class ship  is 98.3 %
+Accuracy of class truck is 97.8 %
+Train Time Spent: 30.746687412261963
+
+======Training in Epoch: 109======
+======Batch 0======
+Loss: 0.056 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.072 | Acc: 97.427% (12422/12750)
+======Batch 100======
+Loss: 0.077 | Acc: 97.255% (24557/25250)
+======Batch 150======
+Loss: 0.081 | Acc: 97.105% (36657/37750)
+EPOCH 109 TOTAL: Loss: 0.085 | Acc: 96.980% (48490/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 96.0 %
+Accuracy of class cat   is 94.5 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 95.2 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.4 %
+Accuracy of class ship  is 98.5 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.508684635162354
+
+======Training in Epoch: 110======
+======Batch 0======
+Loss: 0.084 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.071 | Acc: 97.647% (12450/12750)
+======Batch 100======
+Loss: 0.078 | Acc: 97.327% (24575/25250)
+======Batch 150======
+Loss: 0.081 | Acc: 97.285% (36725/37750)
+EPOCH 110 TOTAL: Loss: 0.081 | Acc: 97.258% (48629/50000)
+Accuracy of class plane is 97.6 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 96.0 %
+Accuracy of class cat   is 95.4 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 95.8 %
+Accuracy of class frog  is 97.9 %
+Accuracy of class horse is 98.1 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 31.242239713668823
+
+======Testing in Epoch: 110======
+Loss: 0.783 | Acc: 82.010% (8201/10000)
+Accuracy of class plane is 89.3 %
+Accuracy of class car   is 91.2 %
+Accuracy of class bird  is 87.7 %
+Accuracy of class cat   is 67.0 %
+Accuracy of class deer  is 71.1 %
+Accuracy of class dog   is 60.4 %
+Accuracy of class frog  is 88.4 %
+Accuracy of class horse is 88.2 %
+Accuracy of class ship  is 91.1 %
+Accuracy of class truck is 85.7 %
+Test Time Spent: 7.363348722457886
+
+======Training in Epoch: 111======
+======Batch 0======
+Loss: 0.108 | Acc: 94.800% (237/250)
+======Batch 50======
+Loss: 0.080 | Acc: 97.310% (12407/12750)
+======Batch 100======
+Loss: 0.084 | Acc: 97.133% (24526/25250)
+======Batch 150======
+Loss: 0.087 | Acc: 97.033% (36630/37750)
+EPOCH 111 TOTAL: Loss: 0.091 | Acc: 96.878% (48439/50000)
+Accuracy of class plane is 97.2 %
+Accuracy of class car   is 98.5 %
+Accuracy of class bird  is 96.0 %
+Accuracy of class cat   is 94.1 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 95.2 %
+Accuracy of class frog  is 97.4 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 97.8 %
+Train Time Spent: 30.781835317611694
+
+======Training in Epoch: 112======
+======Batch 0======
+Loss: 0.093 | Acc: 96.000% (240/250)
+======Batch 50======
+Loss: 0.078 | Acc: 97.271% (12402/12750)
+======Batch 100======
+Loss: 0.080 | Acc: 97.125% (24524/25250)
+======Batch 150======
+Loss: 0.081 | Acc: 97.128% (36666/37750)
+EPOCH 112 TOTAL: Loss: 0.086 | Acc: 96.944% (48472/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 95.9 %
+Accuracy of class cat   is 94.6 %
+Accuracy of class deer  is 96.4 %
+Accuracy of class dog   is 95.4 %
+Accuracy of class frog  is 97.7 %
+Accuracy of class horse is 97.3 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 30.883421897888184
+
+======Training in Epoch: 113======
+======Batch 0======
+Loss: 0.063 | Acc: 97.200% (243/250)
+======Batch 50======
+Loss: 0.081 | Acc: 97.216% (12395/12750)
+======Batch 100======
+Loss: 0.082 | Acc: 97.141% (24528/25250)
+======Batch 150======
+Loss: 0.085 | Acc: 97.070% (36644/37750)
+EPOCH 113 TOTAL: Loss: 0.089 | Acc: 96.962% (48481/50000)
+Accuracy of class plane is 97.0 %
+Accuracy of class car   is 98.8 %
+Accuracy of class bird  is 95.5 %
+Accuracy of class cat   is 94.5 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 95.5 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.739848136901855
+
+======Training in Epoch: 114======
+======Batch 0======
+Loss: 0.067 | Acc: 98.400% (246/250)
+======Batch 50======
+Loss: 0.079 | Acc: 97.396% (12418/12750)
+======Batch 100======
+Loss: 0.078 | Acc: 97.267% (24560/25250)
+======Batch 150======
+Loss: 0.078 | Acc: 97.266% (36718/37750)
+EPOCH 114 TOTAL: Loss: 0.081 | Acc: 97.128% (48564/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 96.2 %
+Accuracy of class cat   is 95.0 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 95.8 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.5 %
+Accuracy of class truck is 98.0 %
+Train Time Spent: 30.49743342399597
+
+======Training in Epoch: 115======
+======Batch 0======
+Loss: 0.096 | Acc: 98.400% (246/250)
+======Batch 50======
+Loss: 0.067 | Acc: 97.749% (12463/12750)
+======Batch 100======
+Loss: 0.080 | Acc: 97.192% (24541/25250)
+======Batch 150======
+Loss: 0.084 | Acc: 97.044% (36634/37750)
+EPOCH 115 TOTAL: Loss: 0.088 | Acc: 96.906% (48453/50000)
+Accuracy of class plane is 97.2 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 95.8 %
+Accuracy of class cat   is 94.2 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 95.3 %
+Accuracy of class frog  is 97.6 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 98.0 %
+Accuracy of class truck is 98.1 %
+Train Time Spent: 30.568851232528687
+
+======Training in Epoch: 116======
+======Batch 0======
+Loss: 0.066 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.065 | Acc: 97.804% (12470/12750)
+======Batch 100======
+Loss: 0.068 | Acc: 97.655% (24658/25250)
+======Batch 150======
+Loss: 0.074 | Acc: 97.415% (36774/37750)
+EPOCH 116 TOTAL: Loss: 0.081 | Acc: 97.208% (48604/50000)
+Accuracy of class plane is 97.5 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 96.1 %
+Accuracy of class cat   is 94.8 %
+Accuracy of class deer  is 97.0 %
+Accuracy of class dog   is 95.9 %
+Accuracy of class frog  is 97.7 %
+Accuracy of class horse is 98.0 %
+Accuracy of class ship  is 98.3 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.665042400360107
+
+======Training in Epoch: 117======
+======Batch 0======
+Loss: 0.065 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.081 | Acc: 97.216% (12395/12750)
+======Batch 100======
+Loss: 0.075 | Acc: 97.374% (24587/25250)
+======Batch 150======
+Loss: 0.079 | Acc: 97.203% (36694/37750)
+EPOCH 117 TOTAL: Loss: 0.085 | Acc: 96.976% (48488/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 95.9 %
+Accuracy of class cat   is 94.1 %
+Accuracy of class deer  is 96.7 %
+Accuracy of class dog   is 95.3 %
+Accuracy of class frog  is 97.6 %
+Accuracy of class horse is 98.0 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.298824310302734
+
+======Training in Epoch: 118======
+======Batch 0======
+Loss: 0.027 | Acc: 99.600% (249/250)
+======Batch 50======
+Loss: 0.068 | Acc: 97.804% (12470/12750)
+======Batch 100======
+Loss: 0.075 | Acc: 97.473% (24612/25250)
+======Batch 150======
+Loss: 0.081 | Acc: 97.205% (36695/37750)
+EPOCH 118 TOTAL: Loss: 0.092 | Acc: 96.810% (48405/50000)
+Accuracy of class plane is 97.2 %
+Accuracy of class car   is 98.1 %
+Accuracy of class bird  is 95.9 %
+Accuracy of class cat   is 94.5 %
+Accuracy of class deer  is 96.5 %
+Accuracy of class dog   is 95.3 %
+Accuracy of class frog  is 97.1 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 97.7 %
+Train Time Spent: 30.49516987800598
+
+======Training in Epoch: 119======
+======Batch 0======
+Loss: 0.095 | Acc: 97.200% (243/250)
+======Batch 50======
+Loss: 0.078 | Acc: 97.427% (12422/12750)
+======Batch 100======
+Loss: 0.073 | Acc: 97.505% (24620/25250)
+======Batch 150======
+Loss: 0.079 | Acc: 97.253% (36713/37750)
+EPOCH 119 TOTAL: Loss: 0.082 | Acc: 97.152% (48576/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.7 %
+Accuracy of class bird  is 96.1 %
+Accuracy of class cat   is 94.6 %
+Accuracy of class deer  is 97.1 %
+Accuracy of class dog   is 95.7 %
+Accuracy of class frog  is 97.8 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 98.3 %
+Accuracy of class truck is 98.4 %
+Train Time Spent: 30.499704122543335
+
+======Training in Epoch: 120======
+======Batch 0======
+Loss: 0.109 | Acc: 95.600% (239/250)
+======Batch 50======
+Loss: 0.069 | Acc: 97.576% (12441/12750)
+======Batch 100======
+Loss: 0.073 | Acc: 97.446% (24605/25250)
+======Batch 150======
+Loss: 0.078 | Acc: 97.264% (36717/37750)
+EPOCH 120 TOTAL: Loss: 0.083 | Acc: 97.118% (48559/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.3 %
+Accuracy of class bird  is 95.9 %
+Accuracy of class cat   is 94.9 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 96.1 %
+Accuracy of class frog  is 98.1 %
+Accuracy of class horse is 97.4 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 97.8 %
+Train Time Spent: 31.09798002243042
+
+======Testing in Epoch: 120======
+Loss: 0.546 | Acc: 85.530% (8553/10000)
+Accuracy of class plane is 84.1 %
+Accuracy of class car   is 90.0 %
+Accuracy of class bird  is 78.0 %
+Accuracy of class cat   is 78.2 %
+Accuracy of class deer  is 89.0 %
+Accuracy of class dog   is 79.0 %
+Accuracy of class frog  is 85.1 %
+Accuracy of class horse is 87.7 %
+Accuracy of class ship  is 91.9 %
+Accuracy of class truck is 92.3 %
+Test Time Spent: 7.169660329818726
+
+======Training in Epoch: 121======
+======Batch 0======
+Loss: 0.097 | Acc: 95.600% (239/250)
+======Batch 50======
+Loss: 0.077 | Acc: 97.349% (12412/12750)
+======Batch 100======
+Loss: 0.077 | Acc: 97.315% (24572/25250)
+======Batch 150======
+Loss: 0.079 | Acc: 97.232% (36705/37750)
+EPOCH 121 TOTAL: Loss: 0.082 | Acc: 97.164% (48582/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 96.3 %
+Accuracy of class cat   is 95.0 %
+Accuracy of class deer  is 97.0 %
+Accuracy of class dog   is 95.7 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.9 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.617101669311523
+
+======Training in Epoch: 122======
+======Batch 0======
+Loss: 0.111 | Acc: 95.600% (239/250)
+======Batch 50======
+Loss: 0.073 | Acc: 97.427% (12422/12750)
+======Batch 100======
+Loss: 0.080 | Acc: 97.216% (24547/25250)
+======Batch 150======
+Loss: 0.085 | Acc: 96.996% (36616/37750)
+EPOCH 122 TOTAL: Loss: 0.087 | Acc: 96.918% (48459/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 95.7 %
+Accuracy of class cat   is 94.0 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 95.6 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.46237540245056
+
+======Training in Epoch: 123======
+======Batch 0======
+Loss: 0.084 | Acc: 95.600% (239/250)
+======Batch 50======
+Loss: 0.079 | Acc: 97.224% (12396/12750)
+======Batch 100======
+Loss: 0.079 | Acc: 97.259% (24558/25250)
+======Batch 150======
+Loss: 0.080 | Acc: 97.258% (36715/37750)
+EPOCH 123 TOTAL: Loss: 0.084 | Acc: 97.108% (48554/50000)
+Accuracy of class plane is 97.7 %
+Accuracy of class car   is 98.5 %
+Accuracy of class bird  is 96.0 %
+Accuracy of class cat   is 94.6 %
+Accuracy of class deer  is 96.6 %
+Accuracy of class dog   is 95.5 %
+Accuracy of class frog  is 97.8 %
+Accuracy of class horse is 97.4 %
+Accuracy of class ship  is 98.6 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.93451428413391
+
+======Training in Epoch: 124======
+======Batch 0======
+Loss: 0.031 | Acc: 100.000% (250/250)
+======Batch 50======
+Loss: 0.066 | Acc: 97.827% (12473/12750)
+======Batch 100======
+Loss: 0.074 | Acc: 97.422% (24599/25250)
+======Batch 150======
+Loss: 0.078 | Acc: 97.237% (36707/37750)
+EPOCH 124 TOTAL: Loss: 0.081 | Acc: 97.144% (48572/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.3 %
+Accuracy of class bird  is 96.5 %
+Accuracy of class cat   is 94.6 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 95.6 %
+Accuracy of class frog  is 98.1 %
+Accuracy of class horse is 97.9 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 98.1 %
+Train Time Spent: 30.56923007965088
+
+======Training in Epoch: 125======
+======Batch 0======
+Loss: 0.058 | Acc: 98.400% (246/250)
+======Batch 50======
+Loss: 0.064 | Acc: 97.890% (12481/12750)
+======Batch 100======
+Loss: 0.071 | Acc: 97.596% (24643/25250)
+======Batch 150======
+Loss: 0.078 | Acc: 97.372% (36758/37750)
+EPOCH 125 TOTAL: Loss: 0.081 | Acc: 97.190% (48595/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.2 %
+Accuracy of class bird  is 96.2 %
+Accuracy of class cat   is 95.1 %
+Accuracy of class deer  is 97.3 %
+Accuracy of class dog   is 95.6 %
+Accuracy of class frog  is 98.2 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.0 %
+Accuracy of class truck is 98.1 %
+Train Time Spent: 30.599671602249146
+
+======Training in Epoch: 126======
+======Batch 0======
+Loss: 0.072 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.074 | Acc: 97.435% (12423/12750)
+======Batch 100======
+Loss: 0.078 | Acc: 97.279% (24563/25250)
+======Batch 150======
+Loss: 0.082 | Acc: 97.168% (36681/37750)
+EPOCH 126 TOTAL: Loss: 0.085 | Acc: 97.054% (48527/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.5 %
+Accuracy of class bird  is 96.0 %
+Accuracy of class cat   is 94.6 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 95.6 %
+Accuracy of class frog  is 97.6 %
+Accuracy of class horse is 97.5 %
+Accuracy of class ship  is 98.3 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.335535287857056
+
+======Training in Epoch: 127======
+======Batch 0======
+Loss: 0.054 | Acc: 98.800% (247/250)
+======Batch 50======
+Loss: 0.078 | Acc: 97.396% (12418/12750)
+======Batch 100======
+Loss: 0.076 | Acc: 97.410% (24596/25250)
+======Batch 150======
+Loss: 0.086 | Acc: 97.110% (36659/37750)
+EPOCH 127 TOTAL: Loss: 0.087 | Acc: 97.070% (48535/50000)
+Accuracy of class plane is 97.2 %
+Accuracy of class car   is 98.2 %
+Accuracy of class bird  is 95.7 %
+Accuracy of class cat   is 94.7 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 95.5 %
+Accuracy of class frog  is 97.7 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.6 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.783116817474365
+
+======Training in Epoch: 128======
+======Batch 0======
+Loss: 0.112 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.079 | Acc: 97.404% (12419/12750)
+======Batch 100======
+Loss: 0.079 | Acc: 97.402% (24594/25250)
+======Batch 150======
+Loss: 0.078 | Acc: 97.383% (36762/37750)
+EPOCH 128 TOTAL: Loss: 0.081 | Acc: 97.250% (48625/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.5 %
+Accuracy of class bird  is 96.2 %
+Accuracy of class cat   is 95.5 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 96.2 %
+Accuracy of class frog  is 97.6 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 98.4 %
+Train Time Spent: 30.211559295654297
+
+======Training in Epoch: 129======
+======Batch 0======
+Loss: 0.099 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.077 | Acc: 97.522% (12434/12750)
+======Batch 100======
+Loss: 0.078 | Acc: 97.378% (24588/25250)
+======Batch 150======
+Loss: 0.081 | Acc: 97.290% (36727/37750)
+EPOCH 129 TOTAL: Loss: 0.082 | Acc: 97.188% (48594/50000)
+Accuracy of class plane is 97.2 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 95.9 %
+Accuracy of class cat   is 95.1 %
+Accuracy of class deer  is 96.7 %
+Accuracy of class dog   is 95.7 %
+Accuracy of class frog  is 98.1 %
+Accuracy of class horse is 97.9 %
+Accuracy of class ship  is 98.3 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.809877634048462
+
+======Training in Epoch: 130======
+======Batch 0======
+Loss: 0.066 | Acc: 97.200% (243/250)
+======Batch 50======
+Loss: 0.076 | Acc: 97.373% (12415/12750)
+======Batch 100======
+Loss: 0.078 | Acc: 97.295% (24567/25250)
+======Batch 150======
+Loss: 0.081 | Acc: 97.192% (36690/37750)
+EPOCH 130 TOTAL: Loss: 0.086 | Acc: 96.998% (48499/50000)
+Accuracy of class plane is 97.5 %
+Accuracy of class car   is 98.8 %
+Accuracy of class bird  is 95.8 %
+Accuracy of class cat   is 94.8 %
+Accuracy of class deer  is 96.4 %
+Accuracy of class dog   is 95.3 %
+Accuracy of class frog  is 97.4 %
+Accuracy of class horse is 97.4 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.76885986328125
+
+======Testing in Epoch: 130======
+Loss: 0.600 | Acc: 84.840% (8484/10000)
+Accuracy of class plane is 84.2 %
+Accuracy of class car   is 90.0 %
+Accuracy of class bird  is 75.0 %
+Accuracy of class cat   is 63.8 %
+Accuracy of class deer  is 84.2 %
+Accuracy of class dog   is 83.9 %
+Accuracy of class frog  is 91.4 %
+Accuracy of class horse is 89.6 %
+Accuracy of class ship  is 94.7 %
+Accuracy of class truck is 91.6 %
+Test Time Spent: 6.932040691375732
+
+======Training in Epoch: 131======
+======Batch 0======
+Loss: 0.088 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.079 | Acc: 97.427% (12422/12750)
+======Batch 100======
+Loss: 0.077 | Acc: 97.390% (24591/25250)
+======Batch 150======
+Loss: 0.080 | Acc: 97.274% (36721/37750)
+EPOCH 131 TOTAL: Loss: 0.082 | Acc: 97.218% (48609/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 96.3 %
+Accuracy of class cat   is 95.2 %
+Accuracy of class deer  is 97.2 %
+Accuracy of class dog   is 95.8 %
+Accuracy of class frog  is 97.7 %
+Accuracy of class horse is 97.9 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 98.0 %
+Train Time Spent: 30.33214259147644
+
+======Training in Epoch: 132======
+======Batch 0======
+Loss: 0.057 | Acc: 98.400% (246/250)
+======Batch 50======
+Loss: 0.063 | Acc: 97.749% (12463/12750)
+======Batch 100======
+Loss: 0.069 | Acc: 97.584% (24640/25250)
+======Batch 150======
+Loss: 0.076 | Acc: 97.356% (36752/37750)
+EPOCH 132 TOTAL: Loss: 0.079 | Acc: 97.252% (48626/50000)
+Accuracy of class plane is 97.2 %
+Accuracy of class car   is 98.7 %
+Accuracy of class bird  is 96.4 %
+Accuracy of class cat   is 95.2 %
+Accuracy of class deer  is 97.3 %
+Accuracy of class dog   is 95.9 %
+Accuracy of class frog  is 98.0 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 97.9 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.997774124145508
+
+======Training in Epoch: 133======
+======Batch 0======
+Loss: 0.112 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.077 | Acc: 97.341% (12411/12750)
+======Batch 100======
+Loss: 0.080 | Acc: 97.208% (24545/25250)
+======Batch 150======
+Loss: 0.081 | Acc: 97.176% (36684/37750)
+EPOCH 133 TOTAL: Loss: 0.083 | Acc: 97.146% (48573/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 95.8 %
+Accuracy of class cat   is 95.2 %
+Accuracy of class deer  is 97.0 %
+Accuracy of class dog   is 95.9 %
+Accuracy of class frog  is 97.7 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.0 %
+Accuracy of class truck is 98.4 %
+Train Time Spent: 30.522387981414795
+
+======Training in Epoch: 134======
+======Batch 0======
+Loss: 0.053 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.072 | Acc: 97.631% (12448/12750)
+======Batch 100======
+Loss: 0.077 | Acc: 97.422% (24599/25250)
+======Batch 150======
+Loss: 0.081 | Acc: 97.314% (36736/37750)
+EPOCH 134 TOTAL: Loss: 0.083 | Acc: 97.200% (48600/50000)
+Accuracy of class plane is 97.6 %
+Accuracy of class car   is 98.5 %
+Accuracy of class bird  is 96.3 %
+Accuracy of class cat   is 95.2 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 95.6 %
+Accuracy of class frog  is 98.0 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 30.857645988464355
+
+======Training in Epoch: 135======
+======Batch 0======
+Loss: 0.076 | Acc: 98.400% (246/250)
+======Batch 50======
+Loss: 0.075 | Acc: 97.333% (12410/12750)
+======Batch 100======
+Loss: 0.074 | Acc: 97.410% (24596/25250)
+======Batch 150======
+Loss: 0.075 | Acc: 97.383% (36762/37750)
+EPOCH 135 TOTAL: Loss: 0.082 | Acc: 97.126% (48563/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 95.9 %
+Accuracy of class cat   is 94.6 %
+Accuracy of class deer  is 96.7 %
+Accuracy of class dog   is 95.7 %
+Accuracy of class frog  is 97.9 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 98.6 %
+Train Time Spent: 30.70968794822693
+
+======Training in Epoch: 136======
+======Batch 0======
+Loss: 0.063 | Acc: 98.800% (247/250)
+======Batch 50======
+Loss: 0.079 | Acc: 97.271% (12402/12750)
+======Batch 100======
+Loss: 0.080 | Acc: 97.295% (24567/25250)
+======Batch 150======
+Loss: 0.079 | Acc: 97.332% (36743/37750)
+EPOCH 136 TOTAL: Loss: 0.085 | Acc: 97.126% (48563/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.7 %
+Accuracy of class bird  is 95.9 %
+Accuracy of class cat   is 95.0 %
+Accuracy of class deer  is 96.7 %
+Accuracy of class dog   is 95.7 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.9 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 98.1 %
+Train Time Spent: 30.649158000946045
+
+======Training in Epoch: 137======
+======Batch 0======
+Loss: 0.052 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.080 | Acc: 97.255% (12400/12750)
+======Batch 100======
+Loss: 0.080 | Acc: 97.299% (24568/25250)
+======Batch 150======
+Loss: 0.083 | Acc: 97.187% (36688/37750)
+EPOCH 137 TOTAL: Loss: 0.084 | Acc: 97.106% (48553/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 96.2 %
+Accuracy of class cat   is 95.3 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 95.7 %
+Accuracy of class frog  is 97.8 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 30.04468035697937
+
+======Training in Epoch: 138======
+======Batch 0======
+Loss: 0.049 | Acc: 98.800% (247/250)
+======Batch 50======
+Loss: 0.077 | Acc: 97.247% (12399/12750)
+======Batch 100======
+Loss: 0.074 | Acc: 97.394% (24592/25250)
+======Batch 150======
+Loss: 0.081 | Acc: 97.168% (36681/37750)
+EPOCH 138 TOTAL: Loss: 0.085 | Acc: 97.024% (48512/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.1 %
+Accuracy of class bird  is 95.9 %
+Accuracy of class cat   is 94.9 %
+Accuracy of class deer  is 97.3 %
+Accuracy of class dog   is 95.9 %
+Accuracy of class frog  is 97.4 %
+Accuracy of class horse is 97.4 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 30.306819915771484
+
+======Training in Epoch: 139======
+======Batch 0======
+Loss: 0.100 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.068 | Acc: 97.608% (12445/12750)
+======Batch 100======
+Loss: 0.075 | Acc: 97.366% (24585/25250)
+======Batch 150======
+Loss: 0.079 | Acc: 97.279% (36723/37750)
+EPOCH 139 TOTAL: Loss: 0.082 | Acc: 97.174% (48587/50000)
+Accuracy of class plane is 97.6 %
+Accuracy of class car   is 98.7 %
+Accuracy of class bird  is 95.9 %
+Accuracy of class cat   is 95.3 %
+Accuracy of class deer  is 96.6 %
+Accuracy of class dog   is 95.6 %
+Accuracy of class frog  is 97.7 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.3 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 31.416557788848877
+
+======Training in Epoch: 140======
+======Batch 0======
+Loss: 0.060 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.076 | Acc: 97.545% (12437/12750)
+======Batch 100======
+Loss: 0.080 | Acc: 97.315% (24572/25250)
+======Batch 150======
+Loss: 0.081 | Acc: 97.242% (36709/37750)
+EPOCH 140 TOTAL: Loss: 0.081 | Acc: 97.208% (48604/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.8 %
+Accuracy of class bird  is 96.2 %
+Accuracy of class cat   is 94.7 %
+Accuracy of class deer  is 97.2 %
+Accuracy of class dog   is 95.6 %
+Accuracy of class frog  is 97.6 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 98.5 %
+Train Time Spent: 30.46850562095642
+
+======Testing in Epoch: 140======
+Loss: 0.611 | Acc: 84.740% (8474/10000)
+Accuracy of class plane is 84.4 %
+Accuracy of class car   is 90.3 %
+Accuracy of class bird  is 82.0 %
+Accuracy of class cat   is 68.8 %
+Accuracy of class deer  is 84.2 %
+Accuracy of class dog   is 86.7 %
+Accuracy of class frog  is 88.2 %
+Accuracy of class horse is 86.1 %
+Accuracy of class ship  is 84.5 %
+Accuracy of class truck is 92.2 %
+Test Time Spent: 7.201996088027954
+
+======Training in Epoch: 141======
+======Batch 0======
+Loss: 0.050 | Acc: 98.400% (246/250)
+======Batch 50======
+Loss: 0.066 | Acc: 97.733% (12461/12750)
+======Batch 100======
+Loss: 0.068 | Acc: 97.679% (24664/25250)
+======Batch 150======
+Loss: 0.072 | Acc: 97.454% (36789/37750)
+EPOCH 141 TOTAL: Loss: 0.079 | Acc: 97.216% (48608/50000)
+Accuracy of class plane is 97.6 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 96.4 %
+Accuracy of class cat   is 95.3 %
+Accuracy of class deer  is 97.1 %
+Accuracy of class dog   is 95.7 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 98.0 %
+Train Time Spent: 30.627816677093506
+
+======Training in Epoch: 142======
+======Batch 0======
+Loss: 0.051 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.073 | Acc: 97.490% (12430/12750)
+======Batch 100======
+Loss: 0.079 | Acc: 97.240% (24553/25250)
+======Batch 150======
+Loss: 0.081 | Acc: 97.208% (36696/37750)
+EPOCH 142 TOTAL: Loss: 0.084 | Acc: 97.082% (48541/50000)
+Accuracy of class plane is 97.2 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 96.2 %
+Accuracy of class cat   is 94.9 %
+Accuracy of class deer  is 97.0 %
+Accuracy of class dog   is 95.1 %
+Accuracy of class frog  is 97.7 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.599841356277466
+
+======Training in Epoch: 143======
+======Batch 0======
+Loss: 0.121 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.063 | Acc: 97.820% (12472/12750)
+======Batch 100======
+Loss: 0.070 | Acc: 97.624% (24650/25250)
+======Batch 150======
+Loss: 0.073 | Acc: 97.526% (36816/37750)
+EPOCH 143 TOTAL: Loss: 0.076 | Acc: 97.408% (48704/50000)
+Accuracy of class plane is 97.6 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 96.6 %
+Accuracy of class cat   is 95.3 %
+Accuracy of class deer  is 97.2 %
+Accuracy of class dog   is 96.4 %
+Accuracy of class frog  is 98.0 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.5 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.423171758651733
+
+======Training in Epoch: 144======
+======Batch 0======
+Loss: 0.058 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.069 | Acc: 97.663% (12452/12750)
+======Batch 100======
+Loss: 0.077 | Acc: 97.279% (24563/25250)
+======Batch 150======
+Loss: 0.084 | Acc: 97.113% (36660/37750)
+EPOCH 144 TOTAL: Loss: 0.088 | Acc: 96.992% (48496/50000)
+Accuracy of class plane is 97.2 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 96.0 %
+Accuracy of class cat   is 94.7 %
+Accuracy of class deer  is 96.6 %
+Accuracy of class dog   is 95.8 %
+Accuracy of class frog  is 97.6 %
+Accuracy of class horse is 97.9 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 97.6 %
+Train Time Spent: 30.55920147895813
+
+======Training in Epoch: 145======
+======Batch 0======
+Loss: 0.055 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.074 | Acc: 97.310% (12407/12750)
+======Batch 100======
+Loss: 0.072 | Acc: 97.402% (24594/25250)
+======Batch 150======
+Loss: 0.075 | Acc: 97.359% (36753/37750)
+EPOCH 145 TOTAL: Loss: 0.076 | Acc: 97.320% (48660/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 96.6 %
+Accuracy of class cat   is 95.4 %
+Accuracy of class deer  is 97.4 %
+Accuracy of class dog   is 96.0 %
+Accuracy of class frog  is 97.7 %
+Accuracy of class horse is 98.0 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 98.1 %
+Train Time Spent: 30.679367542266846
+
+======Training in Epoch: 146======
+======Batch 0======
+Loss: 0.079 | Acc: 97.200% (243/250)
+======Batch 50======
+Loss: 0.073 | Acc: 97.498% (12431/12750)
+======Batch 100======
+Loss: 0.075 | Acc: 97.414% (24597/25250)
+======Batch 150======
+Loss: 0.077 | Acc: 97.327% (36741/37750)
+EPOCH 146 TOTAL: Loss: 0.083 | Acc: 97.152% (48576/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.1 %
+Accuracy of class bird  is 96.1 %
+Accuracy of class cat   is 95.0 %
+Accuracy of class deer  is 97.1 %
+Accuracy of class dog   is 96.2 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.9 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 30.903164625167847
+
+======Training in Epoch: 147======
+======Batch 0======
+Loss: 0.085 | Acc: 98.400% (246/250)
+======Batch 50======
+Loss: 0.093 | Acc: 96.910% (12356/12750)
+======Batch 100======
+Loss: 0.085 | Acc: 97.137% (24527/25250)
+======Batch 150======
+Loss: 0.085 | Acc: 97.070% (36644/37750)
+EPOCH 147 TOTAL: Loss: 0.086 | Acc: 96.996% (48498/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 95.8 %
+Accuracy of class cat   is 94.7 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 95.2 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.9 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 98.1 %
+Train Time Spent: 30.713458776474
+
+======Training in Epoch: 148======
+======Batch 0======
+Loss: 0.050 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.070 | Acc: 97.639% (12449/12750)
+======Batch 100======
+Loss: 0.073 | Acc: 97.442% (24604/25250)
+======Batch 150======
+Loss: 0.077 | Acc: 97.309% (36734/37750)
+EPOCH 148 TOTAL: Loss: 0.082 | Acc: 97.128% (48564/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 95.8 %
+Accuracy of class cat   is 95.1 %
+Accuracy of class deer  is 97.0 %
+Accuracy of class dog   is 95.8 %
+Accuracy of class frog  is 97.4 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.5 %
+Accuracy of class truck is 98.1 %
+Train Time Spent: 30.482582092285156
+
+======Training in Epoch: 149======
+======Batch 0======
+Loss: 0.092 | Acc: 96.400% (241/250)
+======Batch 50======
+Loss: 0.077 | Acc: 97.176% (12390/12750)
+======Batch 100======
+Loss: 0.070 | Acc: 97.485% (24615/25250)
+======Batch 150======
+Loss: 0.071 | Acc: 97.460% (36791/37750)
+EPOCH 149 TOTAL: Loss: 0.081 | Acc: 97.142% (48571/50000)
+Accuracy of class plane is 97.2 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 96.0 %
+Accuracy of class cat   is 95.2 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 95.8 %
+Accuracy of class frog  is 97.8 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.3 %
+Accuracy of class truck is 98.1 %
+Train Time Spent: 30.64678168296814
+
+======Training in Epoch: 150======
+======Batch 0======
+Loss: 0.063 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.071 | Acc: 97.569% (12440/12750)
+======Batch 100======
+Loss: 0.078 | Acc: 97.315% (24572/25250)
+======Batch 150======
+Loss: 0.081 | Acc: 97.234% (36706/37750)
+EPOCH 150 TOTAL: Loss: 0.082 | Acc: 97.200% (48600/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 96.0 %
+Accuracy of class cat   is 94.9 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 96.0 %
+Accuracy of class frog  is 97.8 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.6 %
+Accuracy of class truck is 98.1 %
+Train Time Spent: 30.766316890716553
+
+======Testing in Epoch: 150======
+Loss: 0.650 | Acc: 83.710% (8371/10000)
+Accuracy of class plane is 92.3 %
+Accuracy of class car   is 85.7 %
+Accuracy of class bird  is 77.3 %
+Accuracy of class cat   is 61.5 %
+Accuracy of class deer  is 84.1 %
+Accuracy of class dog   is 73.7 %
+Accuracy of class frog  is 89.5 %
+Accuracy of class horse is 90.7 %
+Accuracy of class ship  is 88.2 %
+Accuracy of class truck is 94.1 %
+Test Time Spent: 7.368998050689697
+
+======Training in Epoch: 151======
+======Batch 0======
+Loss: 0.076 | Acc: 96.000% (240/250)
+======Batch 50======
+Loss: 0.076 | Acc: 97.420% (12421/12750)
+======Batch 100======
+Loss: 0.075 | Acc: 97.406% (24595/25250)
+======Batch 150======
+Loss: 0.076 | Acc: 97.348% (36749/37750)
+EPOCH 151 TOTAL: Loss: 0.083 | Acc: 97.082% (48541/50000)
+Accuracy of class plane is 97.5 %
+Accuracy of class car   is 98.1 %
+Accuracy of class bird  is 96.2 %
+Accuracy of class cat   is 95.1 %
+Accuracy of class deer  is 97.0 %
+Accuracy of class dog   is 95.5 %
+Accuracy of class frog  is 97.8 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 97.9 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 30.73453116416931
+
+======Training in Epoch: 152======
+======Batch 0======
+Loss: 0.083 | Acc: 97.200% (243/250)
+======Batch 50======
+Loss: 0.080 | Acc: 97.373% (12415/12750)
+======Batch 100======
+Loss: 0.080 | Acc: 97.291% (24566/25250)
+======Batch 150======
+Loss: 0.083 | Acc: 97.160% (36678/37750)
+EPOCH 152 TOTAL: Loss: 0.087 | Acc: 96.978% (48489/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.3 %
+Accuracy of class bird  is 95.9 %
+Accuracy of class cat   is 94.5 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 95.2 %
+Accuracy of class frog  is 97.4 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 98.0 %
+Train Time Spent: 30.70382809638977
+
+======Training in Epoch: 153======
+======Batch 0======
+Loss: 0.065 | Acc: 98.800% (247/250)
+======Batch 50======
+Loss: 0.080 | Acc: 97.161% (12388/12750)
+======Batch 100======
+Loss: 0.076 | Acc: 97.410% (24596/25250)
+======Batch 150======
+Loss: 0.076 | Acc: 97.417% (36775/37750)
+EPOCH 153 TOTAL: Loss: 0.077 | Acc: 97.370% (48685/50000)
+Accuracy of class plane is 97.5 %
+Accuracy of class car   is 98.8 %
+Accuracy of class bird  is 96.4 %
+Accuracy of class cat   is 95.3 %
+Accuracy of class deer  is 97.1 %
+Accuracy of class dog   is 95.7 %
+Accuracy of class frog  is 97.9 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.5 %
+Accuracy of class truck is 98.5 %
+Train Time Spent: 30.625051975250244
+
+======Training in Epoch: 154======
+======Batch 0======
+Loss: 0.041 | Acc: 98.400% (246/250)
+======Batch 50======
+Loss: 0.071 | Acc: 97.529% (12435/12750)
+======Batch 100======
+Loss: 0.070 | Acc: 97.549% (24631/25250)
+======Batch 150======
+Loss: 0.074 | Acc: 97.401% (36769/37750)
+EPOCH 154 TOTAL: Loss: 0.076 | Acc: 97.316% (48658/50000)
+Accuracy of class plane is 97.5 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 96.1 %
+Accuracy of class cat   is 95.3 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 96.1 %
+Accuracy of class frog  is 98.1 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.6 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.915350914001465
+
+======Training in Epoch: 155======
+======Batch 0======
+Loss: 0.057 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.069 | Acc: 97.427% (12422/12750)
+======Batch 100======
+Loss: 0.072 | Acc: 97.358% (24583/25250)
+======Batch 150======
+Loss: 0.075 | Acc: 97.362% (36754/37750)
+EPOCH 155 TOTAL: Loss: 0.080 | Acc: 97.180% (48590/50000)
+Accuracy of class plane is 97.5 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 95.9 %
+Accuracy of class cat   is 95.0 %
+Accuracy of class deer  is 97.1 %
+Accuracy of class dog   is 95.9 %
+Accuracy of class frog  is 97.7 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.739014387130737
+
+======Training in Epoch: 156======
+======Batch 0======
+Loss: 0.069 | Acc: 97.200% (243/250)
+======Batch 50======
+Loss: 0.072 | Acc: 97.514% (12433/12750)
+======Batch 100======
+Loss: 0.074 | Acc: 97.394% (24592/25250)
+======Batch 150======
+Loss: 0.077 | Acc: 97.264% (36717/37750)
+EPOCH 156 TOTAL: Loss: 0.081 | Acc: 97.134% (48567/50000)
+Accuracy of class plane is 97.2 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 96.6 %
+Accuracy of class cat   is 94.7 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 95.9 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 98.0 %
+Train Time Spent: 30.654778480529785
+
+======Training in Epoch: 157======
+======Batch 0======
+Loss: 0.065 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.074 | Acc: 97.545% (12437/12750)
+======Batch 100======
+Loss: 0.081 | Acc: 97.267% (24560/25250)
+======Batch 150======
+Loss: 0.083 | Acc: 97.192% (36690/37750)
+EPOCH 157 TOTAL: Loss: 0.085 | Acc: 97.056% (48528/50000)
+Accuracy of class plane is 97.7 %
+Accuracy of class car   is 98.7 %
+Accuracy of class bird  is 95.8 %
+Accuracy of class cat   is 94.5 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 95.4 %
+Accuracy of class frog  is 97.7 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.407378673553467
+
+======Training in Epoch: 158======
+======Batch 0======
+Loss: 0.066 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.074 | Acc: 97.443% (12424/12750)
+======Batch 100======
+Loss: 0.072 | Acc: 97.517% (24623/25250)
+======Batch 150======
+Loss: 0.073 | Acc: 97.544% (36823/37750)
+EPOCH 158 TOTAL: Loss: 0.077 | Acc: 97.366% (48683/50000)
+Accuracy of class plane is 97.7 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 96.5 %
+Accuracy of class cat   is 95.5 %
+Accuracy of class deer  is 97.2 %
+Accuracy of class dog   is 95.9 %
+Accuracy of class frog  is 97.8 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.6 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.984400510787964
+
+======Training in Epoch: 159======
+======Batch 0======
+Loss: 0.084 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.072 | Acc: 97.490% (12430/12750)
+======Batch 100======
+Loss: 0.070 | Acc: 97.596% (24643/25250)
+======Batch 150======
+Loss: 0.072 | Acc: 97.568% (36832/37750)
+EPOCH 159 TOTAL: Loss: 0.077 | Acc: 97.336% (48668/50000)
+Accuracy of class plane is 97.7 %
+Accuracy of class car   is 98.7 %
+Accuracy of class bird  is 96.2 %
+Accuracy of class cat   is 95.3 %
+Accuracy of class deer  is 97.1 %
+Accuracy of class dog   is 95.9 %
+Accuracy of class frog  is 97.9 %
+Accuracy of class horse is 98.0 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.839947938919067
+
+======Training in Epoch: 160======
+======Batch 0======
+Loss: 0.040 | Acc: 98.400% (246/250)
+======Batch 50======
+Loss: 0.067 | Acc: 97.671% (12453/12750)
+======Batch 100======
+Loss: 0.065 | Acc: 97.739% (24679/25250)
+======Batch 150======
+Loss: 0.072 | Acc: 97.473% (36796/37750)
+EPOCH 160 TOTAL: Loss: 0.078 | Acc: 97.306% (48653/50000)
+Accuracy of class plane is 97.7 %
+Accuracy of class car   is 98.5 %
+Accuracy of class bird  is 96.8 %
+Accuracy of class cat   is 95.1 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 95.7 %
+Accuracy of class frog  is 98.0 %
+Accuracy of class horse is 98.0 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 98.1 %
+Train Time Spent: 30.75972270965576
+
+======Testing in Epoch: 160======
+Loss: 0.602 | Acc: 85.270% (8527/10000)
+Accuracy of class plane is 83.2 %
+Accuracy of class car   is 95.3 %
+Accuracy of class bird  is 85.0 %
+Accuracy of class cat   is 63.8 %
+Accuracy of class deer  is 87.9 %
+Accuracy of class dog   is 81.7 %
+Accuracy of class frog  is 90.4 %
+Accuracy of class horse is 90.0 %
+Accuracy of class ship  is 91.5 %
+Accuracy of class truck is 83.9 %
+Test Time Spent: 7.35445237159729
+
+======Training in Epoch: 161======
+======Batch 0======
+Loss: 0.069 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.075 | Acc: 97.482% (12429/12750)
+======Batch 100======
+Loss: 0.071 | Acc: 97.592% (24642/25250)
+======Batch 150======
+Loss: 0.075 | Acc: 97.433% (36781/37750)
+EPOCH 161 TOTAL: Loss: 0.076 | Acc: 97.348% (48674/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 96.4 %
+Accuracy of class cat   is 95.3 %
+Accuracy of class deer  is 97.3 %
+Accuracy of class dog   is 95.9 %
+Accuracy of class frog  is 97.9 %
+Accuracy of class horse is 98.1 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.688150882720947
+
+======Training in Epoch: 162======
+======Batch 0======
+Loss: 0.041 | Acc: 98.400% (246/250)
+======Batch 50======
+Loss: 0.067 | Acc: 97.686% (12455/12750)
+======Batch 100======
+Loss: 0.069 | Acc: 97.521% (24624/25250)
+======Batch 150======
+Loss: 0.071 | Acc: 97.468% (36794/37750)
+EPOCH 162 TOTAL: Loss: 0.075 | Acc: 97.342% (48671/50000)
+Accuracy of class plane is 97.5 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 96.4 %
+Accuracy of class cat   is 95.4 %
+Accuracy of class deer  is 97.0 %
+Accuracy of class dog   is 95.8 %
+Accuracy of class frog  is 97.8 %
+Accuracy of class horse is 98.1 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 98.4 %
+Train Time Spent: 30.68494462966919
+
+======Training in Epoch: 163======
+======Batch 0======
+Loss: 0.070 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.077 | Acc: 97.388% (12417/12750)
+======Batch 100======
+Loss: 0.078 | Acc: 97.315% (24572/25250)
+======Batch 150======
+Loss: 0.080 | Acc: 97.229% (36704/37750)
+EPOCH 163 TOTAL: Loss: 0.083 | Acc: 97.076% (48538/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.2 %
+Accuracy of class bird  is 95.9 %
+Accuracy of class cat   is 95.0 %
+Accuracy of class deer  is 96.6 %
+Accuracy of class dog   is 95.5 %
+Accuracy of class frog  is 97.9 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 97.8 %
+Train Time Spent: 30.914276599884033
+
+======Training in Epoch: 164======
+======Batch 0======
+Loss: 0.102 | Acc: 96.400% (241/250)
+======Batch 50======
+Loss: 0.056 | Acc: 98.102% (12508/12750)
+======Batch 100======
+Loss: 0.065 | Acc: 97.857% (24709/25250)
+======Batch 150======
+Loss: 0.070 | Acc: 97.619% (36851/37750)
+EPOCH 164 TOTAL: Loss: 0.075 | Acc: 97.422% (48711/50000)
+Accuracy of class plane is 97.7 %
+Accuracy of class car   is 98.2 %
+Accuracy of class bird  is 96.7 %
+Accuracy of class cat   is 95.5 %
+Accuracy of class deer  is 97.5 %
+Accuracy of class dog   is 96.1 %
+Accuracy of class frog  is 98.0 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.722521543502808
+
+======Training in Epoch: 165======
+======Batch 0======
+Loss: 0.078 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.071 | Acc: 97.702% (12457/12750)
+======Batch 100======
+Loss: 0.068 | Acc: 97.683% (24665/25250)
+======Batch 150======
+Loss: 0.072 | Acc: 97.539% (36821/37750)
+EPOCH 165 TOTAL: Loss: 0.077 | Acc: 97.364% (48682/50000)
+Accuracy of class plane is 97.7 %
+Accuracy of class car   is 98.8 %
+Accuracy of class bird  is 96.6 %
+Accuracy of class cat   is 95.1 %
+Accuracy of class deer  is 97.0 %
+Accuracy of class dog   is 95.6 %
+Accuracy of class frog  is 98.2 %
+Accuracy of class horse is 97.9 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.793080806732178
+
+======Training in Epoch: 166======
+======Batch 0======
+Loss: 0.086 | Acc: 96.400% (241/250)
+======Batch 50======
+Loss: 0.072 | Acc: 97.655% (12451/12750)
+======Batch 100======
+Loss: 0.073 | Acc: 97.497% (24618/25250)
+======Batch 150======
+Loss: 0.077 | Acc: 97.319% (36738/37750)
+EPOCH 166 TOTAL: Loss: 0.082 | Acc: 97.168% (48584/50000)
+Accuracy of class plane is 97.2 %
+Accuracy of class car   is 98.7 %
+Accuracy of class bird  is 96.0 %
+Accuracy of class cat   is 94.9 %
+Accuracy of class deer  is 97.1 %
+Accuracy of class dog   is 95.6 %
+Accuracy of class frog  is 97.8 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.3 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.54118514060974
+
+======Training in Epoch: 167======
+======Batch 0======
+Loss: 0.069 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.079 | Acc: 97.271% (12402/12750)
+======Batch 100======
+Loss: 0.079 | Acc: 97.279% (24563/25250)
+======Batch 150======
+Loss: 0.080 | Acc: 97.200% (36693/37750)
+EPOCH 167 TOTAL: Loss: 0.083 | Acc: 97.114% (48557/50000)
+Accuracy of class plane is 97.5 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 96.3 %
+Accuracy of class cat   is 94.6 %
+Accuracy of class deer  is 96.8 %
+Accuracy of class dog   is 95.2 %
+Accuracy of class frog  is 97.8 %
+Accuracy of class horse is 97.9 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 98.1 %
+Train Time Spent: 30.364336252212524
+
+======Training in Epoch: 168======
+======Batch 0======
+Loss: 0.068 | Acc: 96.800% (242/250)
+======Batch 50======
+Loss: 0.069 | Acc: 97.725% (12460/12750)
+======Batch 100======
+Loss: 0.076 | Acc: 97.394% (24592/25250)
+======Batch 150======
+Loss: 0.079 | Acc: 97.301% (36731/37750)
+EPOCH 168 TOTAL: Loss: 0.084 | Acc: 97.086% (48543/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 97.9 %
+Accuracy of class bird  is 95.9 %
+Accuracy of class cat   is 95.2 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 95.9 %
+Accuracy of class frog  is 97.6 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.3 %
+Accuracy of class truck is 98.0 %
+Train Time Spent: 30.319658279418945
+
+======Training in Epoch: 169======
+======Batch 0======
+Loss: 0.051 | Acc: 98.800% (247/250)
+======Batch 50======
+Loss: 0.065 | Acc: 97.788% (12468/12750)
+======Batch 100======
+Loss: 0.069 | Acc: 97.568% (24636/25250)
+======Batch 150======
+Loss: 0.072 | Acc: 97.489% (36802/37750)
+EPOCH 169 TOTAL: Loss: 0.076 | Acc: 97.382% (48691/50000)
+Accuracy of class plane is 97.5 %
+Accuracy of class car   is 98.5 %
+Accuracy of class bird  is 96.9 %
+Accuracy of class cat   is 95.0 %
+Accuracy of class deer  is 97.2 %
+Accuracy of class dog   is 96.1 %
+Accuracy of class frog  is 98.0 %
+Accuracy of class horse is 98.0 %
+Accuracy of class ship  is 98.8 %
+Accuracy of class truck is 97.8 %
+Train Time Spent: 30.818331718444824
+
+======Training in Epoch: 170======
+======Batch 0======
+Loss: 0.077 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.063 | Acc: 97.890% (12481/12750)
+======Batch 100======
+Loss: 0.065 | Acc: 97.782% (24690/25250)
+======Batch 150======
+Loss: 0.071 | Acc: 97.547% (36824/37750)
+EPOCH 170 TOTAL: Loss: 0.075 | Acc: 97.392% (48696/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 96.4 %
+Accuracy of class cat   is 95.8 %
+Accuracy of class deer  is 97.1 %
+Accuracy of class dog   is 96.0 %
+Accuracy of class frog  is 98.3 %
+Accuracy of class horse is 98.3 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 98.0 %
+Train Time Spent: 31.067111015319824
+
+======Testing in Epoch: 170======
+Loss: 0.616 | Acc: 84.530% (8453/10000)
+Accuracy of class plane is 85.8 %
+Accuracy of class car   is 90.2 %
+Accuracy of class bird  is 76.0 %
+Accuracy of class cat   is 75.0 %
+Accuracy of class deer  is 82.0 %
+Accuracy of class dog   is 85.8 %
+Accuracy of class frog  is 89.7 %
+Accuracy of class horse is 79.6 %
+Accuracy of class ship  is 89.3 %
+Accuracy of class truck is 91.9 %
+Test Time Spent: 7.267741441726685
+
+======Training in Epoch: 171======
+======Batch 0======
+Loss: 0.044 | Acc: 98.800% (247/250)
+======Batch 50======
+Loss: 0.072 | Acc: 97.506% (12432/12750)
+======Batch 100======
+Loss: 0.071 | Acc: 97.513% (24622/25250)
+======Batch 150======
+Loss: 0.075 | Acc: 97.383% (36762/37750)
+EPOCH 171 TOTAL: Loss: 0.079 | Acc: 97.232% (48616/50000)
+Accuracy of class plane is 97.5 %
+Accuracy of class car   is 98.5 %
+Accuracy of class bird  is 96.5 %
+Accuracy of class cat   is 95.2 %
+Accuracy of class deer  is 97.3 %
+Accuracy of class dog   is 95.6 %
+Accuracy of class frog  is 97.5 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.3 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.437721729278564
+
+======Training in Epoch: 172======
+======Batch 0======
+Loss: 0.063 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.075 | Acc: 97.443% (12424/12750)
+======Batch 100======
+Loss: 0.069 | Acc: 97.691% (24667/25250)
+======Batch 150======
+Loss: 0.070 | Acc: 97.656% (36865/37750)
+EPOCH 172 TOTAL: Loss: 0.075 | Acc: 97.486% (48743/50000)
+Accuracy of class plane is 97.6 %
+Accuracy of class car   is 98.8 %
+Accuracy of class bird  is 96.6 %
+Accuracy of class cat   is 95.4 %
+Accuracy of class deer  is 97.5 %
+Accuracy of class dog   is 96.3 %
+Accuracy of class frog  is 97.8 %
+Accuracy of class horse is 97.9 %
+Accuracy of class ship  is 98.6 %
+Accuracy of class truck is 98.4 %
+Train Time Spent: 31.026464462280273
+
+======Training in Epoch: 173======
+======Batch 0======
+Loss: 0.071 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.076 | Acc: 97.310% (12407/12750)
+======Batch 100======
+Loss: 0.079 | Acc: 97.295% (24567/25250)
+======Batch 150======
+Loss: 0.083 | Acc: 97.171% (36682/37750)
+EPOCH 173 TOTAL: Loss: 0.087 | Acc: 96.960% (48480/50000)
+Accuracy of class plane is 97.0 %
+Accuracy of class car   is 98.3 %
+Accuracy of class bird  is 95.8 %
+Accuracy of class cat   is 94.8 %
+Accuracy of class deer  is 96.5 %
+Accuracy of class dog   is 95.5 %
+Accuracy of class frog  is 97.7 %
+Accuracy of class horse is 97.3 %
+Accuracy of class ship  is 98.6 %
+Accuracy of class truck is 98.0 %
+Train Time Spent: 30.707932949066162
+
+======Training in Epoch: 174======
+======Batch 0======
+Loss: 0.054 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.060 | Acc: 97.937% (12487/12750)
+======Batch 100======
+Loss: 0.064 | Acc: 97.834% (24703/25250)
+======Batch 150======
+Loss: 0.070 | Acc: 97.658% (36866/37750)
+EPOCH 174 TOTAL: Loss: 0.076 | Acc: 97.448% (48724/50000)
+Accuracy of class plane is 97.7 %
+Accuracy of class car   is 98.7 %
+Accuracy of class bird  is 96.5 %
+Accuracy of class cat   is 95.5 %
+Accuracy of class deer  is 97.2 %
+Accuracy of class dog   is 96.4 %
+Accuracy of class frog  is 97.8 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 98.7 %
+Accuracy of class truck is 98.5 %
+Train Time Spent: 30.38828754425049
+
+======Training in Epoch: 175======
+======Batch 0======
+Loss: 0.119 | Acc: 96.000% (240/250)
+======Batch 50======
+Loss: 0.064 | Acc: 97.976% (12492/12750)
+======Batch 100======
+Loss: 0.071 | Acc: 97.679% (24664/25250)
+======Batch 150======
+Loss: 0.074 | Acc: 97.542% (36822/37750)
+EPOCH 175 TOTAL: Loss: 0.079 | Acc: 97.398% (48699/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 96.6 %
+Accuracy of class cat   is 95.3 %
+Accuracy of class deer  is 97.4 %
+Accuracy of class dog   is 95.9 %
+Accuracy of class frog  is 97.9 %
+Accuracy of class horse is 98.2 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 98.4 %
+Train Time Spent: 31.475695848464966
+
+======Training in Epoch: 176======
+======Batch 0======
+Loss: 0.032 | Acc: 99.200% (248/250)
+======Batch 50======
+Loss: 0.069 | Acc: 97.835% (12474/12750)
+======Batch 100======
+Loss: 0.068 | Acc: 97.782% (24690/25250)
+======Batch 150======
+Loss: 0.069 | Acc: 97.693% (36879/37750)
+EPOCH 176 TOTAL: Loss: 0.072 | Acc: 97.556% (48778/50000)
+Accuracy of class plane is 97.5 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 96.8 %
+Accuracy of class cat   is 96.0 %
+Accuracy of class deer  is 97.4 %
+Accuracy of class dog   is 96.5 %
+Accuracy of class frog  is 98.1 %
+Accuracy of class horse is 98.1 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 98.4 %
+Train Time Spent: 30.74936604499817
+
+======Training in Epoch: 177======
+======Batch 0======
+Loss: 0.147 | Acc: 94.400% (236/250)
+======Batch 50======
+Loss: 0.064 | Acc: 97.914% (12484/12750)
+======Batch 100======
+Loss: 0.071 | Acc: 97.624% (24650/25250)
+======Batch 150======
+Loss: 0.074 | Acc: 97.462% (36792/37750)
+EPOCH 177 TOTAL: Loss: 0.079 | Acc: 97.264% (48632/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.0 %
+Accuracy of class bird  is 96.4 %
+Accuracy of class cat   is 95.2 %
+Accuracy of class deer  is 97.3 %
+Accuracy of class dog   is 95.9 %
+Accuracy of class frog  is 98.1 %
+Accuracy of class horse is 97.9 %
+Accuracy of class ship  is 98.5 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 31.205521821975708
+
+======Training in Epoch: 178======
+======Batch 0======
+Loss: 0.053 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.073 | Acc: 97.718% (12459/12750)
+======Batch 100======
+Loss: 0.075 | Acc: 97.560% (24634/25250)
+======Batch 150======
+Loss: 0.077 | Acc: 97.441% (36784/37750)
+EPOCH 178 TOTAL: Loss: 0.081 | Acc: 97.294% (48647/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.5 %
+Accuracy of class bird  is 96.4 %
+Accuracy of class cat   is 95.5 %
+Accuracy of class deer  is 97.0 %
+Accuracy of class dog   is 95.9 %
+Accuracy of class frog  is 97.8 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.6 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.78509783744812
+
+======Training in Epoch: 179======
+======Batch 0======
+Loss: 0.067 | Acc: 98.400% (246/250)
+======Batch 50======
+Loss: 0.063 | Acc: 97.969% (12491/12750)
+======Batch 100======
+Loss: 0.065 | Acc: 97.909% (24722/25250)
+======Batch 150======
+Loss: 0.072 | Acc: 97.539% (36821/37750)
+EPOCH 179 TOTAL: Loss: 0.079 | Acc: 97.276% (48638/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.7 %
+Accuracy of class bird  is 96.4 %
+Accuracy of class cat   is 95.1 %
+Accuracy of class deer  is 97.2 %
+Accuracy of class dog   is 95.7 %
+Accuracy of class frog  is 98.0 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.05382227897644
+
+======Training in Epoch: 180======
+======Batch 0======
+Loss: 0.076 | Acc: 97.200% (243/250)
+======Batch 50======
+Loss: 0.069 | Acc: 97.624% (12447/12750)
+======Batch 100======
+Loss: 0.075 | Acc: 97.414% (24597/25250)
+======Batch 150======
+Loss: 0.080 | Acc: 97.203% (36694/37750)
+EPOCH 180 TOTAL: Loss: 0.087 | Acc: 96.982% (48491/50000)
+Accuracy of class plane is 97.7 %
+Accuracy of class car   is 98.1 %
+Accuracy of class bird  is 96.1 %
+Accuracy of class cat   is 94.6 %
+Accuracy of class deer  is 96.5 %
+Accuracy of class dog   is 95.5 %
+Accuracy of class frog  is 97.8 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 97.8 %
+Train Time Spent: 30.687113046646118
+
+======Testing in Epoch: 180======
+Loss: 0.622 | Acc: 84.210% (8421/10000)
+Accuracy of class plane is 81.1 %
+Accuracy of class car   is 92.2 %
+Accuracy of class bird  is 79.4 %
+Accuracy of class cat   is 79.7 %
+Accuracy of class deer  is 84.3 %
+Accuracy of class dog   is 64.4 %
+Accuracy of class frog  is 90.0 %
+Accuracy of class horse is 88.3 %
+Accuracy of class ship  is 90.4 %
+Accuracy of class truck is 92.3 %
+Test Time Spent: 7.339848756790161
+
+======Training in Epoch: 181======
+======Batch 0======
+Loss: 0.088 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.074 | Acc: 97.561% (12439/12750)
+======Batch 100======
+Loss: 0.073 | Acc: 97.608% (24646/25250)
+======Batch 150======
+Loss: 0.073 | Acc: 97.587% (36839/37750)
+EPOCH 181 TOTAL: Loss: 0.077 | Acc: 97.350% (48675/50000)
+Accuracy of class plane is 97.8 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 96.5 %
+Accuracy of class cat   is 95.2 %
+Accuracy of class deer  is 97.1 %
+Accuracy of class dog   is 95.9 %
+Accuracy of class frog  is 97.8 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 98.5 %
+Train Time Spent: 29.692846059799194
+
+======Training in Epoch: 182======
+======Batch 0======
+Loss: 0.087 | Acc: 98.400% (246/250)
+======Batch 50======
+Loss: 0.076 | Acc: 97.514% (12433/12750)
+======Batch 100======
+Loss: 0.072 | Acc: 97.648% (24656/25250)
+======Batch 150======
+Loss: 0.074 | Acc: 97.560% (36829/37750)
+EPOCH 182 TOTAL: Loss: 0.074 | Acc: 97.528% (48764/50000)
+Accuracy of class plane is 97.7 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 96.7 %
+Accuracy of class cat   is 95.8 %
+Accuracy of class deer  is 97.5 %
+Accuracy of class dog   is 96.2 %
+Accuracy of class frog  is 98.2 %
+Accuracy of class horse is 97.9 %
+Accuracy of class ship  is 98.3 %
+Accuracy of class truck is 98.5 %
+Train Time Spent: 30.81846022605896
+
+======Training in Epoch: 183======
+======Batch 0======
+Loss: 0.063 | Acc: 98.400% (246/250)
+======Batch 50======
+Loss: 0.063 | Acc: 97.890% (12481/12750)
+======Batch 100======
+Loss: 0.064 | Acc: 97.877% (24714/25250)
+======Batch 150======
+Loss: 0.067 | Acc: 97.762% (36905/37750)
+EPOCH 183 TOTAL: Loss: 0.071 | Acc: 97.642% (48821/50000)
+Accuracy of class plane is 97.6 %
+Accuracy of class car   is 98.8 %
+Accuracy of class bird  is 96.8 %
+Accuracy of class cat   is 96.0 %
+Accuracy of class deer  is 97.3 %
+Accuracy of class dog   is 96.3 %
+Accuracy of class frog  is 98.2 %
+Accuracy of class horse is 98.3 %
+Accuracy of class ship  is 98.7 %
+Accuracy of class truck is 98.4 %
+Train Time Spent: 30.603792428970337
+
+======Training in Epoch: 184======
+======Batch 0======
+Loss: 0.087 | Acc: 97.200% (243/250)
+======Batch 50======
+Loss: 0.074 | Acc: 97.467% (12427/12750)
+======Batch 100======
+Loss: 0.075 | Acc: 97.450% (24606/25250)
+======Batch 150======
+Loss: 0.077 | Acc: 97.346% (36748/37750)
+EPOCH 184 TOTAL: Loss: 0.079 | Acc: 97.250% (48625/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.8 %
+Accuracy of class bird  is 95.8 %
+Accuracy of class cat   is 95.3 %
+Accuracy of class deer  is 97.3 %
+Accuracy of class dog   is 95.7 %
+Accuracy of class frog  is 97.8 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.25836944580078
+
+======Training in Epoch: 185======
+======Batch 0======
+Loss: 0.086 | Acc: 96.400% (241/250)
+======Batch 50======
+Loss: 0.066 | Acc: 97.608% (12445/12750)
+======Batch 100======
+Loss: 0.070 | Acc: 97.517% (24623/25250)
+======Batch 150======
+Loss: 0.072 | Acc: 97.481% (36799/37750)
+EPOCH 185 TOTAL: Loss: 0.076 | Acc: 97.406% (48703/50000)
+Accuracy of class plane is 97.7 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 96.5 %
+Accuracy of class cat   is 95.5 %
+Accuracy of class deer  is 97.5 %
+Accuracy of class dog   is 95.7 %
+Accuracy of class frog  is 97.9 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 98.6 %
+Accuracy of class truck is 98.5 %
+Train Time Spent: 30.559686422348022
+
+======Training in Epoch: 186======
+======Batch 0======
+Loss: 0.068 | Acc: 97.200% (243/250)
+======Batch 50======
+Loss: 0.061 | Acc: 97.937% (12487/12750)
+======Batch 100======
+Loss: 0.072 | Acc: 97.513% (24622/25250)
+======Batch 150======
+Loss: 0.078 | Acc: 97.279% (36723/37750)
+EPOCH 186 TOTAL: Loss: 0.082 | Acc: 97.156% (48578/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 95.9 %
+Accuracy of class cat   is 94.8 %
+Accuracy of class deer  is 97.0 %
+Accuracy of class dog   is 96.1 %
+Accuracy of class frog  is 98.0 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 30.163504123687744
+
+======Training in Epoch: 187======
+======Batch 0======
+Loss: 0.034 | Acc: 99.200% (248/250)
+======Batch 50======
+Loss: 0.077 | Acc: 97.357% (12413/12750)
+======Batch 100======
+Loss: 0.078 | Acc: 97.315% (24572/25250)
+======Batch 150======
+Loss: 0.078 | Acc: 97.322% (36739/37750)
+EPOCH 187 TOTAL: Loss: 0.081 | Acc: 97.210% (48605/50000)
+Accuracy of class plane is 97.2 %
+Accuracy of class car   is 98.1 %
+Accuracy of class bird  is 96.2 %
+Accuracy of class cat   is 94.9 %
+Accuracy of class deer  is 97.4 %
+Accuracy of class dog   is 95.6 %
+Accuracy of class frog  is 98.0 %
+Accuracy of class horse is 98.2 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.037453174591064
+
+======Training in Epoch: 188======
+======Batch 0======
+Loss: 0.068 | Acc: 97.200% (243/250)
+======Batch 50======
+Loss: 0.062 | Acc: 97.796% (12469/12750)
+======Batch 100======
+Loss: 0.064 | Acc: 97.802% (24695/25250)
+======Batch 150======
+Loss: 0.069 | Acc: 97.626% (36854/37750)
+EPOCH 188 TOTAL: Loss: 0.076 | Acc: 97.398% (48699/50000)
+Accuracy of class plane is 97.8 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 96.7 %
+Accuracy of class cat   is 95.2 %
+Accuracy of class deer  is 97.1 %
+Accuracy of class dog   is 96.4 %
+Accuracy of class frog  is 98.0 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 98.4 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.674670457839966
+
+======Training in Epoch: 189======
+======Batch 0======
+Loss: 0.042 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.061 | Acc: 98.008% (12496/12750)
+======Batch 100======
+Loss: 0.066 | Acc: 97.727% (24676/25250)
+======Batch 150======
+Loss: 0.071 | Acc: 97.563% (36830/37750)
+EPOCH 189 TOTAL: Loss: 0.075 | Acc: 97.422% (48711/50000)
+Accuracy of class plane is 97.5 %
+Accuracy of class car   is 98.5 %
+Accuracy of class bird  is 96.5 %
+Accuracy of class cat   is 95.6 %
+Accuracy of class deer  is 97.1 %
+Accuracy of class dog   is 96.2 %
+Accuracy of class frog  is 98.1 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 98.7 %
+Accuracy of class truck is 98.4 %
+Train Time Spent: 30.43136954307556
+
+======Training in Epoch: 190======
+======Batch 0======
+Loss: 0.050 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.068 | Acc: 97.694% (12456/12750)
+======Batch 100======
+Loss: 0.069 | Acc: 97.659% (24659/25250)
+======Batch 150======
+Loss: 0.072 | Acc: 97.566% (36831/37750)
+EPOCH 190 TOTAL: Loss: 0.077 | Acc: 97.400% (48700/50000)
+Accuracy of class plane is 97.7 %
+Accuracy of class car   is 98.5 %
+Accuracy of class bird  is 96.3 %
+Accuracy of class cat   is 95.8 %
+Accuracy of class deer  is 97.2 %
+Accuracy of class dog   is 96.0 %
+Accuracy of class frog  is 97.8 %
+Accuracy of class horse is 97.9 %
+Accuracy of class ship  is 98.3 %
+Accuracy of class truck is 98.4 %
+Train Time Spent: 30.19496202468872
+
+======Testing in Epoch: 190======
+Loss: 0.616 | Acc: 84.970% (8497/10000)
+Accuracy of class plane is 86.9 %
+Accuracy of class car   is 92.3 %
+Accuracy of class bird  is 76.2 %
+Accuracy of class cat   is 64.7 %
+Accuracy of class deer  is 84.5 %
+Accuracy of class dog   is 83.8 %
+Accuracy of class frog  is 88.5 %
+Accuracy of class horse is 89.3 %
+Accuracy of class ship  is 92.8 %
+Accuracy of class truck is 90.7 %
+Test Time Spent: 7.2773449420928955
+
+======Training in Epoch: 191======
+======Batch 0======
+Loss: 0.047 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.082 | Acc: 97.231% (12397/12750)
+======Batch 100======
+Loss: 0.078 | Acc: 97.323% (24574/25250)
+======Batch 150======
+Loss: 0.079 | Acc: 97.229% (36704/37750)
+EPOCH 191 TOTAL: Loss: 0.080 | Acc: 97.158% (48579/50000)
+Accuracy of class plane is 97.3 %
+Accuracy of class car   is 98.4 %
+Accuracy of class bird  is 96.3 %
+Accuracy of class cat   is 95.1 %
+Accuracy of class deer  is 97.1 %
+Accuracy of class dog   is 95.8 %
+Accuracy of class frog  is 97.7 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 98.3 %
+Accuracy of class truck is 97.9 %
+Train Time Spent: 30.350860595703125
+
+======Training in Epoch: 192======
+======Batch 0======
+Loss: 0.048 | Acc: 98.800% (247/250)
+======Batch 50======
+Loss: 0.062 | Acc: 97.929% (12486/12750)
+======Batch 100======
+Loss: 0.070 | Acc: 97.564% (24635/25250)
+======Batch 150======
+Loss: 0.073 | Acc: 97.425% (36778/37750)
+EPOCH 192 TOTAL: Loss: 0.077 | Acc: 97.292% (48646/50000)
+Accuracy of class plane is 97.7 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 96.0 %
+Accuracy of class cat   is 95.1 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 95.9 %
+Accuracy of class frog  is 97.9 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.6 %
+Accuracy of class truck is 98.5 %
+Train Time Spent: 30.4400315284729
+
+======Training in Epoch: 193======
+======Batch 0======
+Loss: 0.051 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.063 | Acc: 97.827% (12473/12750)
+======Batch 100======
+Loss: 0.068 | Acc: 97.624% (24650/25250)
+======Batch 150======
+Loss: 0.073 | Acc: 97.505% (36808/37750)
+EPOCH 193 TOTAL: Loss: 0.080 | Acc: 97.272% (48636/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.5 %
+Accuracy of class bird  is 96.1 %
+Accuracy of class cat   is 95.4 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 95.8 %
+Accuracy of class frog  is 97.6 %
+Accuracy of class horse is 98.2 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 98.5 %
+Train Time Spent: 30.561673164367676
+
+======Training in Epoch: 194======
+======Batch 0======
+Loss: 0.089 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.068 | Acc: 97.655% (12451/12750)
+======Batch 100======
+Loss: 0.065 | Acc: 97.762% (24685/25250)
+======Batch 150======
+Loss: 0.069 | Acc: 97.584% (36838/37750)
+EPOCH 194 TOTAL: Loss: 0.075 | Acc: 97.382% (48691/50000)
+Accuracy of class plane is 97.5 %
+Accuracy of class car   is 98.8 %
+Accuracy of class bird  is 96.5 %
+Accuracy of class cat   is 95.2 %
+Accuracy of class deer  is 97.4 %
+Accuracy of class dog   is 95.9 %
+Accuracy of class frog  is 98.0 %
+Accuracy of class horse is 98.0 %
+Accuracy of class ship  is 98.3 %
+Accuracy of class truck is 98.3 %
+Train Time Spent: 30.400736331939697
+
+======Training in Epoch: 195======
+======Batch 0======
+Loss: 0.045 | Acc: 99.200% (248/250)
+======Batch 50======
+Loss: 0.074 | Acc: 97.380% (12416/12750)
+======Batch 100======
+Loss: 0.072 | Acc: 97.545% (24630/25250)
+======Batch 150======
+Loss: 0.076 | Acc: 97.391% (36765/37750)
+EPOCH 195 TOTAL: Loss: 0.079 | Acc: 97.262% (48631/50000)
+Accuracy of class plane is 97.7 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 96.2 %
+Accuracy of class cat   is 95.0 %
+Accuracy of class deer  is 97.3 %
+Accuracy of class dog   is 95.6 %
+Accuracy of class frog  is 97.9 %
+Accuracy of class horse is 97.7 %
+Accuracy of class ship  is 98.5 %
+Accuracy of class truck is 98.1 %
+Train Time Spent: 30.475739240646362
+
+======Training in Epoch: 196======
+======Batch 0======
+Loss: 0.067 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.057 | Acc: 97.992% (12494/12750)
+======Batch 100======
+Loss: 0.060 | Acc: 97.893% (24718/25250)
+======Batch 150======
+Loss: 0.063 | Acc: 97.777% (36911/37750)
+EPOCH 196 TOTAL: Loss: 0.068 | Acc: 97.598% (48799/50000)
+Accuracy of class plane is 97.8 %
+Accuracy of class car   is 98.9 %
+Accuracy of class bird  is 97.1 %
+Accuracy of class cat   is 95.2 %
+Accuracy of class deer  is 97.5 %
+Accuracy of class dog   is 96.2 %
+Accuracy of class frog  is 97.9 %
+Accuracy of class horse is 98.1 %
+Accuracy of class ship  is 98.7 %
+Accuracy of class truck is 98.5 %
+Train Time Spent: 31.039365768432617
+
+======Training in Epoch: 197======
+======Batch 0======
+Loss: 0.040 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.066 | Acc: 97.851% (12476/12750)
+======Batch 100======
+Loss: 0.070 | Acc: 97.675% (24663/25250)
+======Batch 150======
+Loss: 0.073 | Acc: 97.513% (36811/37750)
+EPOCH 197 TOTAL: Loss: 0.075 | Acc: 97.404% (48702/50000)
+Accuracy of class plane is 97.6 %
+Accuracy of class car   is 98.3 %
+Accuracy of class bird  is 96.5 %
+Accuracy of class cat   is 95.1 %
+Accuracy of class deer  is 97.3 %
+Accuracy of class dog   is 96.1 %
+Accuracy of class frog  is 98.2 %
+Accuracy of class horse is 98.0 %
+Accuracy of class ship  is 98.6 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.658331871032715
+
+======Training in Epoch: 198======
+======Batch 0======
+Loss: 0.071 | Acc: 98.000% (245/250)
+======Batch 50======
+Loss: 0.075 | Acc: 97.435% (12423/12750)
+======Batch 100======
+Loss: 0.077 | Acc: 97.354% (24582/25250)
+======Batch 150======
+Loss: 0.078 | Acc: 97.303% (36732/37750)
+EPOCH 198 TOTAL: Loss: 0.080 | Acc: 97.262% (48631/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.7 %
+Accuracy of class bird  is 96.7 %
+Accuracy of class cat   is 95.0 %
+Accuracy of class deer  is 97.1 %
+Accuracy of class dog   is 95.7 %
+Accuracy of class frog  is 97.9 %
+Accuracy of class horse is 97.8 %
+Accuracy of class ship  is 98.2 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.374494075775146
+
+======Training in Epoch: 199======
+======Batch 0======
+Loss: 0.060 | Acc: 97.600% (244/250)
+======Batch 50======
+Loss: 0.071 | Acc: 97.396% (12418/12750)
+======Batch 100======
+Loss: 0.072 | Acc: 97.481% (24614/25250)
+======Batch 150======
+Loss: 0.077 | Acc: 97.322% (36739/37750)
+EPOCH 199 TOTAL: Loss: 0.078 | Acc: 97.272% (48636/50000)
+Accuracy of class plane is 97.4 %
+Accuracy of class car   is 98.6 %
+Accuracy of class bird  is 96.4 %
+Accuracy of class cat   is 95.7 %
+Accuracy of class deer  is 96.9 %
+Accuracy of class dog   is 95.8 %
+Accuracy of class frog  is 98.1 %
+Accuracy of class horse is 97.6 %
+Accuracy of class ship  is 98.1 %
+Accuracy of class truck is 98.2 %
+Train Time Spent: 30.674674034118652

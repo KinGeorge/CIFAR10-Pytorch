@@ -63,7 +63,7 @@ We offer 3 types of bash scripts for you to try, which the hyper-parameters are 
 
 |                         Model(mode)                          | Test Acc |
 | :----------------------------------------------------------: | :------: |
-|                           Ours(0)                            |          |
+|                           Ours(0)                            |  84.950  |
 |   [LeNet](https://ieeexplore.ieee.org/document/726791)(1)    |  72.800  |
 | [AlexNet](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)(2) |  78.090  |
 | [GoogleNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)(3) |  84.120  |

@@ -74,6 +74,8 @@ def run():
 
     Loss = nn.CrossEntropyLoss()
     optimizer = optim.Adam(net.parameters(), lr=args.lr, weight_decay=5e-4)
+    optim.lr_scheduler.ExponentialLR(optimizer, gamma=0.98)
+
 
     for epoch in range(start_epoch, start_epoch+args.num_epochs):
         tic = time.time()
