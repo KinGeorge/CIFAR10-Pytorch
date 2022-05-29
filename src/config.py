@@ -11,6 +11,9 @@ def get_args():
     parser.add_argument('--batch_size', type=int, default=250)
     parser.add_argument('--mode', type=int, dest='mode', default=1)
     parser.add_argument('--best_acc', type=float, help='best accuracy', default=90)
+    parser.add_argument('--worker', type=int, dest='worker', default=2)
+    parser.add_argument('--test_batch_size', type=int, default=1)
+
 
 
     args = parser.parse_args()

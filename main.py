@@ -31,7 +31,10 @@ def run():
     test_acc_total = []
 
     print('======defining model======')
-    if args.mode == 1 :
+    if args.mode == 0 :
+        print('======Ours======')
+        net = CNN()
+    elif args.mode == 1 :
         print('======LeNet======')
         net = LeNet()
     elif args.mode == 2:
